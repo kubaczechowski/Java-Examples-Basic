@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="280.0" prefWidth="516.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.65" fx:controller="patientdatabase.GUI.PatientViewController">
+   <children>
+      <Label layoutX="21.0" layoutY="92.0" text="Name" />
+      <Label fx:id="lblId" layoutX="38.0" layoutY="61.0" text="&lt;&lt;ERROR&gt;&gt;" />
+      <Label layoutX="21.0" layoutY="44.0" text="Id" />
+      <Label layoutX="21.0" layoutY="14.0" text="Patient Information" />
+      <Label layoutX="21.0" layoutY="153.0" text="Email" />
+      <Label layoutX="21.0" layoutY="207.0" text="Diagnosis" />
+      <Label fx:id="lblName" layoutX="41.0" layoutY="120.0" text="&lt;&lt;ERROR&gt;&gt;" />
+      <Label fx:id="lblEmail" layoutX="41.0" layoutY="178.0" text="&lt;&lt;ERROR&gt;&gt;" />
+      <Label fx:id="lblDiagnosis" layoutX="41.0" layoutY="233.0" text="&lt;&lt;ERROR&gt;&gt;" />
+   </children>
+</AnchorPane>

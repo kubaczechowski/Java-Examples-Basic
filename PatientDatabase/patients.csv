@@ -1,0 +1,1001 @@
+id,name,email,diagnosis
+1,Gary Perez,gperez0@chronoengine.com,Kitchen of single-family (private) house as the place of occurrence of the external cause
+2,Angela Watkins,awatkins1@usa.gov,"Burn of first degree of abdominal wall, sequela"
+3,Philip Carter,pcarter2@kickstarter.com,Contusion of knee
+4,Julie Wright,jwright3@twitpic.com,"Unspecified fracture of upper end of right ulna, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+5,Cynthia Owens,cowens4@netlog.com,"Other fracture of fourth lumbar vertebra, subsequent encounter for fracture with routine healing"
+6,Irene Mason,imason5@accuweather.com,"Cystic meniscus, posterior horn of medial meniscus, unspecified knee"
+7,Bruce Simmons,bsimmons6@pbs.org,"Displaced transverse fracture of shaft of right radius, sequela"
+8,Andrew Meyer,ameyer7@webnode.com,"Contact with nonvenomous plant thorns and spines and sharp leaves, initial encounter"
+9,Angela Ortiz,aortiz8@addthis.com,"Slipping, tripping and stumbling without falling due to stepping from one level to another, initial encounter"
+10,Timothy Hamilton,thamilton9@mapquest.com,Postinfectious acute disseminated encephalitis and encephalomyelitis (postinfectious ADEM)
+11,Brandon Day,bdaya@hao123.com,Contusion of ascending [right] colon
+12,Gerald Oliver,goliverb@bravesites.com,"Malignant neoplasm of nipple and areola, left male breast"
+13,Carlos Lee,cleec@ucoz.ru,"Puncture wound with foreign body of left great toe without damage to nail, initial encounter"
+14,Clarence Allen,callend@discovery.com,"Adhesions due to foreign body accidentally left in body following other procedure, initial encounter"
+15,Michelle Cooper,mcoopere@devhub.com,"Nondisplaced bicondylar fracture of unspecified tibia, subsequent encounter for open fracture type I or II with delayed healing"
+16,Walter Harper,wharperf@163.com,"Diseases of the skin and subcutaneous tissue complicating pregnancy, unspecified trimester"
+17,Michael Brooks,mbrooksg@digg.com,SARS-associated coronavirus as the cause of diseases classified elsewhere
+18,Sean Mitchell,smitchellh@mysql.com,"Cystoid macular degeneration, left eye"
+19,Nicole Baker,nbakeri@nsw.gov.au,"Adhesions due to foreign body accidentally left in body following infusion or transfusion, initial encounter"
+20,Joshua Peterson,jpetersonj@com.com,Fall from moving wheelchair (powered)
+21,Daniel Ferguson,dfergusonk@surveymonkey.com,"Puncture wound without foreign body of lower back and pelvis with penetration into retroperitoneum, initial encounter"
+22,Janet Ray,jrayl@skype.com,"Legal intervention involving injury by rifle pellet, bystander injured, subsequent encounter"
+23,Heather White,hwhitem@phpbb.com,Burn of third degree of multiple sites of wrist and hand
+24,Elizabeth Reynolds,ereynoldsn@imdb.com,"Car passenger injured in collision with railway train or railway vehicle in nontraffic accident, subsequent encounter"
+25,Clarence Bennett,cbennetto@github.com,"Nondisplaced fracture of proximal phalanx of unspecified great toe, subsequent encounter for fracture with delayed healing"
+26,Phyllis Berry,pberryp@edublogs.org,"Supervision of pregnancy with history of pre-term labor, third trimester"
+27,James Lawson,jlawsonq@tiny.cc,"Intentional collision of motor vehicle with tree, subsequent encounter"
+28,Brandon Stephens,bstephensr@google.de,"Unspecified fracture of shaft of unspecified ulna, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+29,Russell Burton,rburtons@independent.co.uk,"Unspecified superficial injury of unspecified lesser toe(s), subsequent encounter"
+30,Steven Hernandez,shernandezt@chron.com,Major laceration of tail of pancreas
+31,Peter Brooks,pbrooksu@is.gd,"Striking against diving board, sequela"
+32,Emily Hart,ehartv@1und1.de,"Pathological fracture in neoplastic disease, left femur, initial encounter for fracture"
+33,Harry Day,hdayw@whitehouse.gov,Other specified mosquito-borne viral fevers
+34,Melissa Ford,mfordx@twitter.com,"Laceration of other muscles, fascia and tendons at forearm level, unspecified arm, subsequent encounter"
+35,Norma Cox,ncoxy@indiatimes.com,"Other fracture of left lower leg, subsequent encounter for closed fracture with malunion"
+36,Susan Phillips,sphillipsz@moonfruit.com,Unspecified open wound of left ring finger with damage to nail
+37,Scott Burton,sburton10@wp.com,"Nondisplaced fracture of coronoid process of right ulna, initial encounter for open fracture type I or II"
+38,Gloria Berry,gberry11@lycos.com,Abscess of right external ear
+39,Rebecca Sullivan,rsullivan12@symantec.com,"Ankylosing hyperostosis [Forestier], site unspecified"
+40,Mary Elliott,melliott13@merriam-webster.com,"Puncture wound without foreign body of unspecified part of thorax, initial encounter"
+41,Eric Henderson,ehenderson14@123-reg.co.uk,"Toxic effect of latex, assault, initial encounter"
+42,Marie Peterson,mpeterson15@tripod.com,"Wrist drop, unspecified wrist"
+43,Craig Burke,cburke16@mysql.com,"Other infective bursitis, unspecified ankle and foot"
+44,Douglas Larson,dlarson17@usgs.gov,"Animal-rider injured in collision with pedal cycle, initial encounter"
+45,Earl Bennett,ebennett18@intel.com,"Other fracture of shaft of radius, unspecified arm, subsequent encounter for open fracture type I or II with delayed healing"
+46,Jennifer Brooks,jbrooks19@about.com,"Toxic effect of other alcohols, accidental (unintentional), sequela"
+47,Amanda Mcdonald,amcdonald1a@naver.com,"Displaced fracture of lateral condyle of unspecified tibia, subsequent encounter for open fracture type I or II with delayed healing"
+48,Mark Lane,mlane1b@hao123.com,"Major laceration of unspecified vertebral artery, initial encounter"
+49,Norma Ray,nray1c@census.gov,"Anterior dislocation of unspecified sternoclavicular joint, subsequent encounter"
+50,Jack Hayes,jhayes1d@symantec.com,Cutaneous abscess of left foot
+51,Gregory Banks,gbanks1e@businessweek.com,"Other specified injury of muscle and tendon of long extensor muscle of toe at ankle and foot level, right foot, subsequent encounter"
+52,Susan Kelley,skelley1f@mac.com,Encounter for care involving renal dialysis
+53,Scott Evans,sevans1g@shinystat.com,"Superficial foreign body of left hand, subsequent encounter"
+54,Joyce Rodriguez,jrodriguez1h@myspace.com,"Infection and inflammatory reaction due to internal fixation device of left femur, sequela"
+55,Diane Mitchell,dmitchell1i@vimeo.com,"Foreign body granuloma of soft tissue, not elsewhere classified, unspecified thigh"
+56,Susan Long,slong1j@usnews.com,Open wound of unspecified part of thorax
+57,Eric Williamson,ewilliamson1k@dmoz.org,"Villonodular synovitis (pigmented), left shoulder"
+58,Theresa Brooks,tbrooks1l@bandcamp.com,"Poisoning by local astringents and local detergents, assault, subsequent encounter"
+59,John Martinez,jmartinez1m@mashable.com,Unspecified injury of unspecified ankle
+60,Terry Simpson,tsimpson1n@github.com,Corrosion of first degree of palm
+61,Andrea Moore,amoore1o@bravesites.com,"Toxic effect of venom of tarantula, undetermined, initial encounter"
+62,Craig Lee,clee1p@theglobeandmail.com,"Burn of larynx and trachea, sequela"
+63,Anna Ruiz,aruiz1q@about.me,"Gastric contents in other parts of respiratory tract causing other injury, initial encounter"
+64,Bonnie Nichols,bnichols1r@tripadvisor.com,"Stress fracture, unspecified tibia and fibula, subsequent encounter for fracture with routine healing"
+65,Diane Rivera,drivera1s@freewebs.com,Burn of third degree of upper back
+66,Diana Welch,dwelch1t@ihg.com,"Motorcycle driver injured in noncollision transport accident in traffic accident, sequela"
+67,Donald Robertson,drobertson1u@economist.com,Laceration with foreign body of unspecified front wall of thorax with penetration into thoracic cavity
+68,Ruth Carter,rcarter1v@miitbeian.gov.cn,"Idiopathic gout, right wrist"
+69,Kenneth Franklin,kfranklin1w@mapy.cz,"Unspecified focal traumatic brain injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, sequela"
+70,Jane Cox,jcox1x@joomla.org,"Episodic tension-type headache, intractable"
+71,Teresa Snyder,tsnyder1y@aboutads.info,"Passenger in heavy transport vehicle injured in collision with heavy transport vehicle or bus in traffic accident, sequela"
+72,Todd Morris,tmorris1z@privacy.gov.au,"Other injury of unspecified muscle, fascia and tendon at shoulder and upper arm level, unspecified arm"
+73,Kathy Reid,kreid20@google.de,"Fracture of base of skull, right side, subsequent encounter for fracture with routine healing"
+74,Carolyn Ramirez,cramirez21@netscape.com,"Laceration of ureter, sequela"
+75,Raymond Ortiz,rortiz22@netscape.com,"Pathological fracture, unspecified shoulder, subsequent encounter for fracture with malunion"
+76,Karen West,kwest23@ifeng.com,"Nondisplaced transcondylar fracture of left humerus, subsequent encounter for fracture with routine healing"
+77,Nancy Cook,ncook24@slideshare.net,"Corrosion of third degree of left ear [any part, except ear drum], sequela"
+78,Lawrence Rogers,lrogers25@timesonline.co.uk,"Displaced fracture of distal phalanx of unspecified thumb, initial encounter for open fracture"
+79,Helen Wright,hwright26@globo.com,"Poisoning by other agents primarily affecting gastrointestinal system, accidental (unintentional)"
+80,Amy Hill,ahill27@google.com.br,Cyst of orbit
+81,Jimmy Moore,jmoore28@state.gov,"Other fracture of first metacarpal bone, right hand, subsequent encounter for fracture with routine healing"
+82,Helen Nguyen,hnguyen29@ovh.net,"Other fracture of shaft of left fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+83,Catherine Gomez,cgomez2a@jiathis.com,"Ankylosis, unspecified hand"
+84,Victor Jones,vjones2b@bigcartel.com,Spastic entropion of right lower eyelid
+85,Walter Gibson,wgibson2c@etsy.com,"Displaced fracture of body of hamate [unciform] bone, left wrist, initial encounter for closed fracture"
+86,Harold Wallace,hwallace2d@jigsy.com,"Other specified injury of muscle, fascia and tendon of the posterior muscle group at thigh level"
+87,Helen Matthews,hmatthews2e@weibo.com,"Central dislocation of left hip, initial encounter"
+88,Steve Willis,swillis2f@last.fm,"Nondisplaced comminuted fracture of right patella, subsequent encounter for open fracture type I or II with nonunion"
+89,Christopher Evans,cevans2g@forbes.com,"Unspecified fracture of T5-T6 vertebra, initial encounter for closed fracture"
+90,Phillip Ortiz,portiz2h@wordpress.com,Marfan's syndrome
+91,Jose Montgomery,jmontgomery2i@nasa.gov,"Burn of third degree of forehead and cheek, initial encounter"
+92,Frank Perez,fperez2j@typepad.com,"Other extraarticular fracture of lower end of right radius, subsequent encounter for open fracture type I or II with malunion"
+93,Carolyn White,cwhite2k@shop-pro.jp,"Displaced oblique fracture of shaft of left fibula, subsequent encounter for open fracture type I or II with malunion"
+94,Gary Reyes,greyes2l@shutterfly.com,"Juvenile osteochondrosis of tibia and fibula, unspecified leg"
+95,Anthony Kennedy,akennedy2m@parallels.com,"Other superficial bite of lip, subsequent encounter"
+96,Patrick Simmons,psimmons2n@amazon.co.uk,"Injury due to collapse of burning building or structure in controlled fire, sequela"
+97,Robert Lawson,rlawson2o@ameblo.jp,"Corrosion with resulting rupture and destruction of unspecified eyeball, initial encounter"
+98,Shirley Matthews,smatthews2p@barnesandnoble.com,Puncture wound without foreign body of unspecified upper arm
+99,Kevin Ramos,kramos2q@ebay.co.uk,"Military operations involving unspecified explosion and fragments, military personnel"
+100,Harold Morgan,hmorgan2r@smugmug.com,"Infective myositis, right upper arm"
+101,Robert Watkins,rwatkins2s@smh.com.au,Puncture wound with foreign body of right buttock
+102,Marilyn Richards,mrichards2t@indiatimes.com,"Other fracture of third metacarpal bone, left hand, sequela"
+103,Howard Simpson,hsimpson2u@mediafire.com,"Accidental drowning and submersion while in swimming-pool, initial encounter"
+104,Earl Hamilton,ehamilton2v@google.de,"Fatigue fracture of vertebra, thoracic region, subsequent encounter for fracture with routine healing"
+105,Catherine Sims,csims2w@mapquest.com,"Open angle with borderline findings, low risk"
+106,Fred Morris,fmorris2x@harvard.edu,"Injury of other cranial nerves, left side"
+107,Ronald Baker,rbaker2y@sciencedirect.com,"Fracture of other specified skull and facial bones, unspecified side, subsequent encounter for fracture with nonunion"
+108,Beverly Henry,bhenry2z@ca.gov,"Argentous corneal deposits, bilateral"
+109,Lisa Sanders,lsanders30@furl.net,"Spontaneous rupture of extensor tendons, unspecified shoulder"
+110,Andrew Wallace,awallace31@dailymail.co.uk,"Underdosing of other nonopioid analgesics and antipyretics, not elsewhere classified"
+111,Brandon Peters,bpeters32@com.com,"Hallucinogen use, unspecified with hallucinogen-induced psychotic disorder with delusions"
+112,Carl Payne,cpayne33@businessinsider.com,Bitten by duck
+113,Jeffrey Cook,jcook34@newsvine.com,"Displaced supracondylar fracture without intracondylar extension of lower end of unspecified femur, initial encounter for open fracture type I or II"
+114,Andrew Jones,ajones35@imageshack.us,"Unspecified injury of flexor muscle, fascia and tendon of left thumb at forearm level, initial encounter"
+115,Chris Miller,cmiller36@alexa.com,"Other fracture of shaft of radius, right arm"
+116,Howard Fernandez,hfernandez37@plala.or.jp,"Nondisplaced fracture of trapezium [larger multangular], right wrist, initial encounter for closed fracture"
+117,Wanda Stone,wstone38@storify.com,"Displacement of indwelling ureteral stent, initial encounter"
+118,Jean Schmidt,jschmidt39@freewebs.com,Striatonigral degeneration
+119,Rebecca Reyes,rreyes3a@networkadvertising.org,Hemiplegia and hemiparesis following nontraumatic intracerebral hemorrhage affecting unspecified side
+120,Keith Bailey,kbailey3b@forbes.com,Unspecified physeal fracture of upper end of unspecified femur
+121,Walter Morris,wmorris3c@omniture.com,"Nondisplaced trimalleolar fracture of unspecified lower leg, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+122,Teresa Watson,twatson3d@nymag.com,Breakdown (mechanical) of artificial skin graft and decellularized allodermis
+123,Maria Thompson,mthompson3e@woothemes.com,"Laceration with foreign body of unspecified external genital organs, male, subsequent encounter"
+124,Kimberly Harvey,kharvey3f@statcounter.com,"Unspecified focal traumatic brain injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter"
+125,Kimberly Johnston,kjohnston3g@nifty.com,"Displaced oblique fracture of shaft of unspecified fibula, initial encounter for closed fracture"
+126,Rebecca Franklin,rfranklin3h@meetup.com,Encounter for hearing examination following failed hearing screening
+127,Louis Howell,lhowell3i@networksolutions.com,"Displaced fracture of neck of unspecified talus, subsequent encounter for fracture with delayed healing"
+128,Alan Coleman,acoleman3j@github.io,"Adverse effect of unspecified anesthetic, subsequent encounter"
+129,Marilyn Mason,mmason3k@lycos.com,"Otitic barotrauma, subsequent encounter"
+130,Marilyn West,mwest3l@guardian.co.uk,"Poisoning by, adverse effect of and underdosing of other synthetic narcotics"
+131,Alan Warren,awarren3m@vimeo.com,"Hair causing external constriction, subsequent encounter"
+132,Kathryn Rogers,krogers3n@slideshare.net,"Unspecified injury of muscle and tendon of long extensor muscle of toe at ankle and foot level, unspecified foot"
+133,Aaron Armstrong,aarmstrong3o@imgur.com,"Macular cyst, hole, or pseudohole, right eye"
+134,Scott Sullivan,ssullivan3p@multiply.com,"Other fracture of left lower leg, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+135,Virginia Fowler,vfowler3q@bizjournals.com,"Unspecified injury of muscle(s) and tendon(s) of anterior muscle group at lower leg level, left leg, subsequent encounter"
+136,Angela Greene,agreene3r@java.com,"Displaced supracondylar fracture without intracondylar extension of lower end of unspecified femur, subsequent encounter for closed fracture with routine healing"
+137,Marilyn Butler,mbutler3s@admin.ch,"Other injury of muscle(s) and tendon(s) of peroneal muscle group at lower leg level, left leg, subsequent encounter"
+138,Antonio Burns,aburns3t@timesonline.co.uk,"Other physeal fracture of upper end of unspecified tibia, subsequent encounter for fracture with malunion"
+139,Christopher Turner,cturner3u@irs.gov,"Contusion of ovary, bilateral"
+140,Kathleen Gutierrez,kgutierrez3v@facebook.com,"Corrosion of unspecified degree of unspecified ear [any part, except ear drum], subsequent encounter"
+141,Bruce Riley,briley3w@hubpages.com,"Toxic effect of ingested berries, assault, sequela"
+142,Kathleen Brown,kbrown3x@hatena.ne.jp,"Adverse effect of cardiac-stimulant glycosides and drugs of similar action, sequela"
+143,Jean Ryan,jryan3y@google.ca,Person on outside of pick-up truck or van injured in collision with pedestrian or animal in nontraffic accident
+144,Jacqueline Crawford,jcrawford3z@oakley.com,"Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, left eye"
+145,Joe Williamson,jwilliamson40@berkeley.edu,"Other mechanical complication of other urinary catheter, initial encounter"
+146,Lawrence Peterson,lpeterson41@epa.gov,"Other infective bursitis, ankle and foot"
+147,Timothy Fuller,tfuller42@goo.ne.jp,"Poisoning by 4-Aminophenol derivatives, undetermined, subsequent encounter"
+148,Lori Oliver,loliver43@miibeian.gov.cn,"Unspecified injury of lung, bilateral, sequela"
+149,Laura Rivera,lrivera44@guardian.co.uk,"Laceration with foreign body of left ear, initial encounter"
+150,Marie Harris,mharris45@fema.gov,"Asphyxiation due to smothering in furniture, accidental, initial encounter"
+151,Dorothy White,dwhite46@ftc.gov,Irritability and anger
+152,Alice Reed,areed47@sun.com,"Laceration with foreign body of unspecified back wall of thorax without penetration into thoracic cavity, subsequent encounter"
+153,Adam Hunter,ahunter48@businessweek.com,"Calcium deposit in bursa, left hip"
+154,Albert Griffin,agriffin49@prweb.com,"Accidental handgun discharge, initial encounter"
+155,Kelly Murphy,kmurphy4a@squarespace.com,"Stenosis due to cardiac and vascular prosthetic devices, implants and grafts"
+156,Rachel Vasquez,rvasquez4b@uiuc.edu,"Corrosion of first degree of multiple sites of right wrist and hand, subsequent encounter"
+157,Johnny Scott,jscott4c@networkadvertising.org,"Jump from burning building or structure in controlled fire, initial encounter"
+158,Kathleen Cox,kcox4d@mit.edu,Unspecified traumatic spondylolisthesis of second cervical vertebra
+159,Walter Welch,wwelch4e@elegantthemes.com,"Diverticulitis of intestine, part unspecified, with perforation and abscess without bleeding"
+160,Richard Pierce,rpierce4f@dedecms.com,"Poisoning by androgens and anabolic congeners, intentional self-harm"
+161,Theresa Hughes,thughes4g@jiathis.com,"Drug-induced gout, hip"
+162,Ashley Ortiz,aortiz4h@mtv.com,"Other chronic hematogenous osteomyelitis, right femur"
+163,Willie Johnson,wjohnson4i@redcross.org,"Sprain of left coracohumeral (ligament), initial encounter"
+164,Michael Jordan,mjordan4j@facebook.com,"War operations involving combat using blunt or piercing object, military personnel, subsequent encounter"
+165,Amanda Bailey,abailey4k@cbsnews.com,"Injury of unspecified iliac blood vessel(s), subsequent encounter"
+166,Daniel Mcdonald,dmcdonald4l@cpanel.net,"Displaced oblique fracture of shaft of right ulna, subsequent encounter for closed fracture with malunion"
+167,Gerald Schmidt,gschmidt4m@nps.gov,"Unspecified injury of radial artery at forearm level, right arm, subsequent encounter"
+168,Joseph Bradley,jbradley4n@google.fr,Other complications of foreign body accidentally left in body following endoscopic examination
+169,Earl Howell,ehowell4o@wikipedia.org,"Unspecified foreign body in esophagus causing other injury, subsequent encounter"
+170,Tina Boyd,tboyd4p@surveymonkey.com,Toxic effects of zinc and its compounds
+171,Diana Simpson,dsimpson4q@exblog.jp,"Osteochondropathy, unspecified of shoulder"
+172,Joyce Wells,jwells4r@hp.com,"Displaced simple supracondylar fracture without intercondylar fracture of left humerus, subsequent encounter for fracture with nonunion"
+173,Rose Hughes,rhughes4s@uol.com.br,"Other traumatic nondisplaced spondylolisthesis of fourth cervical vertebra, sequela"
+174,Diane Woods,dwoods4t@walmart.com,"Other fractures of lower end of left radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+175,Daniel Cook,dcook4u@wikipedia.org,Other specified injury of ulnar artery at forearm level
+176,Maria Long,mlong4v@wisc.edu,"Asphyxiation due to smothering under pillow, undetermined, initial encounter"
+177,Earl Gordon,egordon4w@naver.com,Laceration with foreign body of left elbow
+178,Victor Carr,vcarr4x@cloudflare.com,"Infection and inflammatory reaction due to other internal orthopedic prosthetic devices, implants and grafts, initial encounter"
+179,Kathryn Ramos,kramos4y@51.la,"Displaced pilon fracture of unspecified tibia, sequela"
+180,Scott Ramos,sramos4z@ftc.gov,"Person on outside of car injured in collision with pick-up truck in traffic accident, subsequent encounter"
+181,Sandra Evans,sevans50@bluehost.com,"Osteonecrosis due to previous trauma, left hand"
+182,Sarah Cooper,scooper51@rambler.ru,Scarlet fever
+183,Sarah Meyer,smeyer52@com.com,Major contusion of left kidney
+184,Donald Mccoy,dmccoy53@tumblr.com,"Person on outside of pick-up truck or van injured in collision with fixed or stationary object in traffic accident, sequela"
+185,Norma Boyd,nboyd54@hatena.ne.jp,Chronic or unspecified gastrojejunal ulcer with both hemorrhage and perforation
+186,Christine Lawson,clawson55@altervista.org,Abrasion of unspecified elbow
+187,Carlos Ross,cross56@utexas.edu,Nondisplaced fracture of lateral malleolus of right fibula
+188,Angela Coleman,acoleman57@fastcompany.com,"Burn of second degree of unspecified wrist, sequela"
+189,Douglas Hamilton,dhamilton58@multiply.com,"Age-related osteoporosis with current pathological fracture, unspecified femur"
+190,Gary Griffin,ggriffin59@hp.com,"Salter-Harris Type IV physeal fracture of upper end of radius, left arm, subsequent encounter for fracture with delayed healing"
+191,Beverly Spencer,bspencer5a@princeton.edu,Intentional self-harm by steam or hot vapors
+192,Eric Boyd,eboyd5b@altervista.org,Other osteonecrosis of right radius
+193,Anthony Castillo,acastillo5c@nasa.gov,"Laceration of ovary, unilateral, sequela"
+194,Kathy Kelley,kkelley5d@ebay.com,"Displaced comminuted fracture of shaft of left fibula, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+195,Timothy Tucker,ttucker5e@accuweather.com,Unspecified entropion of left lower eyelid
+196,Lawrence Griffin,lgriffin5f@dailymail.co.uk,"Unspecified fracture of third metacarpal bone, right hand, subsequent encounter for fracture with routine healing"
+197,Patricia Carter,pcarter5g@google.co.uk,Gastric contents in other parts of respiratory tract
+198,Janice Porter,jporter5h@tinypic.com,"Strain of muscle, fascia and tendon of long head of biceps, unspecified arm, sequela"
+199,Anthony Hamilton,ahamilton5i@google.com.br,"Cocaine use, unspecified with intoxication"
+200,Norma Long,nlong5j@go.com,"Unspecified fracture of right forearm, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+201,Brian Castillo,bcastillo5k@bloglines.com,"Stenosis of coronary artery stent, sequela"
+202,Frank Hicks,fhicks5l@geocities.jp,Displaced longitudinal fracture of left patella
+203,Janet Weaver,jweaver5m@kickstarter.com,Accidental discharge of other larger firearm
+204,Brian Fisher,bfisher5n@t.co,Toxic effects of unspecified halogen derivatives of aliphatic and aromatic hydrocarbons
+205,Ruby Ryan,rryan5o@webeden.co.uk,"Other mechanical complication of indwelling urethral catheter, subsequent encounter"
+206,Susan James,sjames5p@yandex.ru,"War operations involving other fires, conflagrations and hot substances, military personnel"
+207,Scott Webb,swebb5q@example.com,"Other sprain of left elbow, sequela"
+208,James Arnold,jarnold5r@princeton.edu,Corrosions involving less than 10% of body surface
+209,Amy Mills,amills5s@apple.com,Other infection due to central venous catheter
+210,Amanda Hanson,ahanson5t@freewebs.com,Exposure to ignition of other clothing and apparel
+211,Frank Torres,ftorres5u@prlog.org,"Open bite of scrotum and testes, sequela"
+212,Judith Lee,jlee5v@fda.gov,Arachnophobia
+213,Billy Coleman,bcoleman5w@va.gov,"Displaced fracture of first metatarsal bone, left foot, sequela"
+214,Jose Medina,jmedina5x@51.la,"Crushed between other powered watercraft and other watercraft or other object due to collision, initial encounter"
+215,Cynthia Sanchez,csanchez5y@g.co,"Other complication of vascular dialysis catheter, sequela"
+216,Lisa Montgomery,lmontgomery5z@xrea.com,"Blepharophimosis right eye, unspecified eyelid"
+217,Harry Kim,hkim60@sphinn.com,"Unspecified injury of other flexor muscle, fascia and tendon at forearm level"
+218,Jacqueline Green,jgreen61@washington.edu,"Laceration of abdominal wall with foreign body, left lower quadrant without penetration into peritoneal cavity, subsequent encounter"
+219,Douglas Flores,dflores62@surveymonkey.com,Explosion of bomb placed during war operations but exploding after cessation of hostilities
+220,Sharon Thomas,sthomas63@reverbnation.com,"Toxic effect of arsenic and its compounds, undetermined"
+221,Virginia Sanders,vsanders64@plala.or.jp,Encounter for adjustment and management of implanted visual substitution device
+222,Janet Welch,jwelch65@ameblo.jp,"Injury of cutaneous sensory nerve at shoulder and upper arm level, right arm, sequela"
+223,Patrick Anderson,panderson66@csmonitor.com,"Displaced fracture of proximal phalanx of left index finger, initial encounter for open fracture"
+224,Christopher Little,clittle67@geocities.com,"Displaced transverse fracture of right patella, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+225,Gerald Riley,griley68@usgs.gov,"Oligohydramnios, first trimester, other fetus"
+226,Kelly Henderson,khenderson69@reddit.com,"Other injury of intrinsic muscle, fascia and tendon of left ring finger at wrist and hand level"
+227,Bonnie Clark,bclark6a@nymag.com,Birth injury to eye
+228,Amy Washington,awashington6b@wisc.edu,"Poisoning by cephalosporins and other beta-lactam antibiotics, assault, sequela"
+229,Philip Lewis,plewis6c@typepad.com,"Displacement of surgically created arteriovenous shunt, sequela"
+230,Anne Dixon,adixon6d@ifeng.com,"Osteochondropathy, unspecified, unspecified shoulder"
+231,Eugene Bradley,ebradley6e@oracle.com,Rheumatic aortic insufficiency
+232,Aaron Burke,aburke6f@nifty.com,"Car passenger injured in collision with railway train or railway vehicle in nontraffic accident, initial encounter"
+233,Mildred Carpenter,mcarpenter6g@irs.gov,"Displaced fracture of body of hamate [unciform] bone, right wrist, initial encounter for closed fracture"
+234,David Jackson,djackson6h@vistaprint.com,Other specified immunodeficiencies
+235,Diana Barnes,dbarnes6i@i2i.jp,"Other air transport accidents, not elsewhere classified, subsequent encounter"
+236,Anna Lawson,alawson6j@drupal.org,"Laceration without foreign body of left index finger without damage to nail, initial encounter"
+237,David Stevens,dstevens6k@japanpost.jp,"Car driver injured in collision with sport utility vehicle in nontraffic accident, initial encounter"
+238,Henry Walker,hwalker6l@amazon.com,"Acute paralytic poliomyelitis, other and unspecified"
+239,Adam Ortiz,aortiz6m@jalbum.net,"Unspecified acute conjunctivitis, unspecified eye"
+240,Martha Chavez,mchavez6n@yellowbook.com,Encounter for prophylactic removal of breast
+241,Thomas Willis,twillis6o@eepurl.com,"Salter-Harris Type IV physeal fracture of lower end of left tibia, subsequent encounter for fracture with routine healing"
+242,Timothy Banks,tbanks6p@sbwire.com,"Torus fracture of upper end of unspecified fibula, subsequent encounter for fracture with routine healing"
+243,Shawn Gonzalez,sgonzalez6q@twitpic.com,Injury of other nerves at wrist and hand level
+244,Julia Russell,jrussell6r@phpbb.com,"Burn of third degree of right ankle, sequela"
+245,Ryan Martin,rmartin6s@g.co,"Displaced fracture of lateral condyle of right tibia, subsequent encounter for open fracture type I or II with delayed healing"
+246,Mildred Castillo,mcastillo6t@last.fm,"Body mass index (BMI) 26.0-26.9, adult"
+247,Christine Mason,cmason6u@icio.us,"Fall due to controlled fire, not in building or structure, initial encounter"
+248,Mildred White,mwhite6v@redcross.org,"Displaced transverse fracture of shaft of left femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+249,Frank Patterson,fpatterson6w@soundcloud.com,"Displaced fracture of shaft of right clavicle, subsequent encounter for fracture with routine healing"
+250,Wayne Murray,wmurray6x@imdb.com,Burn of third degree of unspecified foot
+251,Dennis Hart,dhart6y@sciencedirect.com,"Unspecified fracture of unspecified forearm, subsequent encounter for open fracture type I or II with malunion"
+252,Willie Perkins,wperkins6z@unc.edu,"Other superficial bite of right index finger, subsequent encounter"
+253,Wayne Perkins,wperkins70@artisteer.com,Primary ovarian failure
+254,Stephen Mccoy,smccoy71@lulu.com,"Cauliflower ear, left ear"
+255,Jeremy Medina,jmedina72@abc.net.au,Other contact with turkey
+256,Joan Stephens,jstephens73@dion.ne.jp,"Other injury of other specified muscles, fascia and tendons at wrist and hand level, right hand, initial encounter"
+257,Judith Evans,jevans74@sciencedaily.com,"Displaced comminuted fracture of shaft of ulna, right arm, subsequent encounter for closed fracture with malunion"
+258,Charles Porter,cporter75@purevolume.com,Retained (old) foreign body following penetrating wound of bilateral orbits
+259,Jason Thompson,jthompson76@wordpress.com,Abrasion of hip
+260,Amy Fisher,afisher77@goo.ne.jp,"Burn of third degree of right wrist, subsequent encounter"
+261,Fred Allen,fallen78@slideshare.net,Abnormal immunological findings in specimens from respiratory organs and thorax
+262,Emily Weaver,eweaver79@theguardian.com,"Other contact with hot air and other hot gases, subsequent encounter"
+263,Jeffrey Kelly,jkelly7a@tuttocitta.it,Loose body in left shoulder
+264,Lois Tucker,ltucker7b@ihg.com,Atheroembolism of lower extremity
+265,Marie Matthews,mmatthews7c@walmart.com,"Myeloid sarcoma, in remission"
+266,Phillip Williamson,pwilliamson7d@mit.edu,Immunization not carried out for other reason
+267,Peter Thomas,pthomas7e@fc2.com,Loose body in unspecified shoulder
+268,Walter Nichols,wnichols7f@usa.gov,Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema
+269,Eugene Hayes,ehayes7g@cmu.edu,"Encounter for prophylactic measures, unspecified"
+270,Thomas Welch,twelch7h@woothemes.com,"Supervision of pregnancy with other poor reproductive or obstetric history, third trimester"
+271,Marie Perez,mperez7i@state.tx.us,"Other fracture of right patella, subsequent encounter for open fracture type I or II with malunion"
+272,Johnny Palmer,jpalmer7j@europa.eu,"Crushing injury of right thigh, subsequent encounter"
+273,Betty Green,bgreen7k@mysql.com,Injury of peripheral nerves of thorax
+274,Randy Jackson,rjackson7l@google.cn,"Nondisplaced transverse fracture of shaft of unspecified fibula, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+275,Pamela Tucker,ptucker7m@abc.net.au,"Displaced fracture of posterior column [ilioischial] of left acetabulum, subsequent encounter for fracture with delayed healing"
+276,Kathleen Stewart,kstewart7n@adobe.com,"Displaced bicondylar fracture of right tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+277,Robin Hughes,rhughes7o@dailymotion.com,"Labor and delivery complicated by cord complication, unspecified, not applicable or unspecified"
+278,Kathryn Burns,kburns7p@economist.com,"Lichen planus, unspecified"
+279,David Wagner,dwagner7q@shinystat.com,"Underdosing of antiallergic and antiemetic drugs, initial encounter"
+280,Peter George,pgeorge7r@chronoengine.com,Contusion of left shoulder
+281,Alice Flores,aflores7s@cbslocal.com,"Hallux rigidus, left foot"
+282,Daniel Woods,dwoods7t@zdnet.com,"Corrosion of unspecified degree of left elbow, subsequent encounter"
+283,Eric Gibson,egibson7u@businesswire.com,"Other fracture of lower end of left ulna, subsequent encounter for open fracture type I or II with malunion"
+284,Joseph Ramirez,jramirez7v@timesonline.co.uk,"Puncture wound with foreign body of nose, subsequent encounter"
+285,Elizabeth Jacobs,ejacobs7w@last.fm,"Motorcycle rider (driver) (passenger) injured in transport accident with military vehicle, initial encounter"
+286,Marie King,mking7x@nsw.gov.au,"Nondisplaced fracture of lateral condyle of right tibia, subsequent encounter for open fracture type I or II with delayed healing"
+287,Daniel Patterson,dpatterson7y@meetup.com,"Frostbite with tissue necrosis of right finger(s), initial encounter"
+288,Henry Cruz,hcruz7z@nationalgeographic.com,Necrosis of pulp
+289,Janice Myers,jmyers80@macromedia.com,Postprocedural hemorrhage of the spleen following a procedure
+290,Earl Vasquez,evasquez81@time.com,Allergic contact dermatitis due to drugs in contact with skin
+291,Christopher Wagner,cwagner82@tuttocitta.it,"Contusion of left index finger without damage to nail, initial encounter"
+292,Deborah Banks,dbanks83@ibm.com,Complete traumatic amputation of right foot at ankle level
+293,Tammy Bell,tbell84@storify.com,"Infection of nipple associated with pregnancy, third trimester"
+294,Phillip Peterson,ppeterson85@pbs.org,"Underdosing of hemostatic drugs, sequela"
+295,Maria Murray,mmurray86@biglobe.ne.jp,"Pathological fracture in neoplastic disease, left foot, subsequent encounter for fracture with delayed healing"
+296,Diane Hughes,dhughes87@friendfeed.com,"Infection and inflammatory reaction due to implanted urinary neurostimulation device, subsequent encounter"
+297,Christina Montgomery,cmontgomery88@dailymotion.com,Unspecified physeal fracture of upper end of left fibula
+298,Martin Willis,mwillis89@wix.com,"Genital varices in pregnancy, unspecified trimester"
+299,John Andrews,jandrews8a@umn.edu,"Displaced fracture of proximal phalanx of right middle finger, subsequent encounter for fracture with delayed healing"
+300,Frances Warren,fwarren8b@columbia.edu,Other psychoactive substance abuse with intoxication delirium
+301,Douglas Thomas,dthomas8c@usnews.com,"Sprain of other specified parts of unspecified shoulder girdle, subsequent encounter"
+302,Roy Young,ryoung8d@dropbox.com,"Pedestrian on foot injured in collision with car, pick-up truck or van in traffic accident"
+303,Ruby Torres,rtorres8e@nasa.gov,"Nondisplaced spiral fracture of shaft of right femur, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+304,Clarence Greene,cgreene8f@guardian.co.uk,Unspecified fracture of left ilium
+305,Alice Ford,aford8g@google.cn,"Burn of unspecified degree of multiple sites of left shoulder and upper limb, except wrist and hand"
+306,Robin Lane,rlane8h@webs.com,"Terrorism involving other means, public safety official injured, initial encounter"
+307,Albert Hayes,ahayes8i@google.it,Partial traumatic amputation of two or more right lesser toes
+308,Teresa Hall,thall8j@ibm.com,Other exposure to controlled fire in building or structure
+309,Amy Fisher,afisher8k@pcworld.com,"Other meniscus derangements, unspecified meniscus, unspecified knee"
+310,Sandra Fuller,sfuller8l@wiley.com,Other premature depolarization
+311,Johnny Burns,jburns8m@who.int,"Abrasion of nose, initial encounter"
+312,Shirley Burton,sburton8n@alibaba.com,"Assault by handgun discharge, sequela"
+313,Philip Edwards,pedwards8o@edublogs.org,"Nondisplaced segmental fracture of shaft of right tibia, initial encounter for open fracture type I or II"
+314,Kathryn Willis,kwillis8p@prlog.org,"Puncture wound with foreign body of unspecified elbow, sequela"
+315,Tammy Ruiz,truiz8q@usa.gov,Pedestrian with other conveyance injured in collision with heavy transport vehicle or bus in traffic accident
+316,Bruce Thomas,bthomas8r@nytimes.com,"Toxic effect of sulfur dioxide, accidental (unintentional)"
+317,Martha Wells,mwells8s@nytimes.com,Encounter for surgical aftercare following surgery on the skin and subcutaneous tissue
+318,Diane Kelly,dkelly8t@acquirethisname.com,Other specified nutritional anemias
+319,Stephanie Watkins,swatkins8u@nature.com,Idiopathic aseptic necrosis of unspecified shoulder
+320,Joyce Williamson,jwilliamson8v@paypal.com,"Toxic effect of harmful algae and algae toxins, undetermined, subsequent encounter"
+321,Anthony Mccoy,amccoy8w@java.com,"Laceration without foreign body of other specified part of neck, initial encounter"
+322,Arthur Larson,alarson8x@artisteer.com,Activities involving walking and running
+323,Marie Martin,mmartin8y@jalbum.net,"Displaced transverse fracture of shaft of right femur, sequela"
+324,Gregory Walker,gwalker8z@about.me,"Maternal care for (suspected) hereditary disease in fetus, fetus 5"
+325,Catherine Stevens,cstevens90@accuweather.com,Unspecified open wound of left elbow
+326,Phillip Mcdonald,pmcdonald91@squidoo.com,"Bent bone of right ulna, subsequent encounter for open fracture type I or II with nonunion"
+327,Paul Coleman,pcoleman92@over-blog.com,"Corrosions of other specified parts of right eye and adnexa, initial encounter"
+328,Denise Gonzalez,dgonzalez93@google.com,"Continuing pregnancy after elective fetal reduction of one fetus or more, unspecified trimester, fetus 3"
+329,Steven Harper,sharper94@macromedia.com,"Abscess of bursa, ankle and foot"
+330,Brian Walker,bwalker95@businessweek.com,"Toxic effect of sulfur dioxide, assault, initial encounter"
+331,Arthur Foster,afoster96@ask.com,"Unspecified injury of muscle, fascia and tendon at neck level, subsequent encounter"
+332,Anthony Richardson,arichardson97@homestead.com,"Asphyxiation due to being trapped in bed linens, accidental, subsequent encounter"
+333,Jeffrey George,jgeorge98@mit.edu,Other specified injuries of external genitals
+334,Joyce Bell,jbell99@globo.com,"Person on outside of pick-up truck or van injured in noncollision transport accident in traffic accident, initial encounter"
+335,Marilyn Castillo,mcastillo9a@jimdo.com,"Displacement of other ocular prosthetic devices, implants and grafts"
+336,Jonathan Baker,jbaker9b@gmpg.org,"Nondisplaced fracture of greater tuberosity of left humerus, subsequent encounter for fracture with routine healing"
+337,Frances Evans,fevans9c@amazon.de,"Asphyxiation due to hanging, undetermined, initial encounter"
+338,Marilyn Kennedy,mkennedy9d@youku.com,"Asphyxiation due to mechanical threat to breathing due to other causes, undetermined, sequela"
+339,Betty Palmer,bpalmer9e@typepad.com,"Toxic effect of formaldehyde, accidental (unintentional), initial encounter"
+340,Ralph Graham,rgraham9f@cbc.ca,"Toxic effect of homologues of benzene, accidental (unintentional), subsequent encounter"
+341,Dennis Williams,dwilliams9g@examiner.com,"Unspecified mastoiditis, unspecified ear"
+342,William Sanchez,wsanchez9h@bravesites.com,"Coma scale, best verbal response, confused conversation"
+343,Walter Torres,wtorres9i@princeton.edu,"Displaced segmental fracture of shaft of left fibula, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+344,Charles Fowler,cfowler9j@diigo.com,"Other displaced fracture of seventh cervical vertebra, initial encounter for open fracture"
+345,Terry Hamilton,thamilton9k@over-blog.com,Skin graft (allograft) rejection
+346,James Miller,jmiller9l@prlog.org,Female genital mutilation Type II status
+347,John Lopez,jlopez9m@hao123.com,Other specified inflammation of vagina and vulva
+348,Heather Carroll,hcarroll9n@nymag.com,"Poisoning by peripheral vasodilators, accidental (unintentional), subsequent encounter"
+349,Samuel Reynolds,sreynolds9o@tiny.cc,Measles keratitis and keratoconjunctivitis
+350,Philip Mendoza,pmendoza9p@admin.ch,"Underdosing of other specified systemic anti-infectives and antiparasitics, sequela"
+351,Henry Gonzales,hgonzales9q@newyorker.com,Other secondary cataract
+352,Jennifer Austin,jaustin9r@cmu.edu,Unspecified superficial injury of nose
+353,Tammy George,tgeorge9s@adobe.com,Unspecified fracture of left ischium
+354,Dennis Rose,drose9t@spiegel.de,Other epilepsy
+355,Sandra Mason,smason9u@gov.uk,"Infectious mononucleosis, unspecified with meningitis"
+356,James Martinez,jmartinez9v@epa.gov,"Unspecified fracture of left pubis, initial encounter for open fracture"
+357,Raymond Hayes,rhayes9w@parallels.com,"Unspecified fracture of T11-T12 vertebra, subsequent encounter for fracture with nonunion"
+358,Nicole White,nwhite9x@nasa.gov,"Labor and delivery complicated by cord around neck, without compression, fetus 4"
+359,Jonathan Robinson,jrobinson9y@artisteer.com,"Salter-Harris Type II physeal fracture of lower end of ulna, right arm, subsequent encounter for fracture with delayed healing"
+360,Joshua Hernandez,jhernandez9z@mit.edu,Toxic effect of rodenticides
+361,Jack Henry,jhenrya0@senate.gov,"Bitten by nonvenomous lizards, subsequent encounter"
+362,Eric Taylor,etaylora1@bandcamp.com,"ABO incompatibility reaction due to transfusion of blood or blood products, unspecified, subsequent encounter"
+363,Louise Kim,lkima2@businesswire.com,"Laceration of other flexor muscle, fascia and tendon at forearm level"
+364,Brenda Black,bblacka3@mlb.com,"Laceration of dorsal artery of left foot, initial encounter"
+365,Phyllis Foster,pfostera4@meetup.com,Obstructed labor due to other maternal pelvic abnormalities
+366,Wanda Henderson,whendersona5@tumblr.com,"Nondisplaced bimalleolar fracture of left lower leg, subsequent encounter for closed fracture with routine healing"
+367,Diane Ruiz,druiza6@hc360.com,Resistance to beta lactam antibiotics
+368,Amy Sanders,asandersa7@hhs.gov,"Obstructed labor due to compound presentation, other fetus"
+369,Ryan Hayes,rhayesa8@mapy.cz,"Burn of first degree of right lower leg, subsequent encounter"
+370,Nicole Lee,nleea9@mozilla.org,"Puncture wound with foreign body of right middle finger with damage to nail, subsequent encounter"
+371,Ronald Wood,rwoodaa@techcrunch.com,"Poisoning by emollients, demulcents and protectants, accidental (unintentional), initial encounter"
+372,Judy Howell,jhowellab@msn.com,"Occupant of streetcar injured in derailment without antecedent collision, initial encounter"
+373,Philip George,pgeorgeac@ocn.ne.jp,"Unspecified sprain of unspecified thumb, sequela"
+374,Roger Robinson,rrobinsonad@dmoz.org,Pedal cycle driver injured in collision with heavy transport vehicle or bus in nontraffic accident
+375,Robert Ruiz,rruizae@nydailynews.com,"Other specified fracture of unspecified ischium, initial encounter for open fracture"
+376,Ernest Fisher,efisheraf@vistaprint.com,"Food in esophagus causing compression of trachea, subsequent encounter"
+377,Willie Willis,wwillisag@trellian.com,"Subacute osteomyelitis, shoulder"
+378,Paula Pierce,ppierceah@a8.net,"Complete traumatic amputation at elbow level, left arm, sequela"
+379,Sandra Banks,sbanksai@umich.edu,"Calcium deposit in bursa, left hip"
+380,Phyllis Reyes,preyesaj@nhs.uk,"Occupant (driver) (passenger) of heavy transport vehicle injured in transport accidents with military vehicle, initial encounter"
+381,William Cox,wcoxak@mail.ru,"Arthritis due to other bacteria, left wrist"
+382,Ruth Garcia,rgarciaal@wiley.com,"Toxic effect of unspecified substance, intentional self-harm, subsequent encounter"
+383,Joe Palmer,jpalmeram@wp.com,"Sclerosing keratitis, bilateral"
+384,Lori Torres,ltorresan@aboutads.info,"Staphylococcal arthritis, right knee"
+385,Louise Hall,lhallao@tripadvisor.com,"Displacement of permanent sutures, subsequent encounter"
+386,Billy Baker,bbakerap@webeden.co.uk,"Corrosion of first degree of unspecified knee, subsequent encounter"
+387,Rebecca Harvey,rharveyaq@go.com,Type 2 diabetes mellitus with diabetic polyneuropathy
+388,Edward Vasquez,evasquezar@i2i.jp,Other hyperaldosteronism
+389,Ralph Woods,rwoodsas@com.com,"Unspecified injury of unspecified blood vessel at ankle and foot level, left leg, initial encounter"
+390,Billy Baker,bbakerat@opera.com,Actinomycotic meningitis
+391,Wanda Moore,wmooreau@dyndns.org,"Anomalous pulmonary venous connection, unspecified"
+392,Wayne Rodriguez,wrodriguezav@foxnews.com,Other specified acquired deformities of unspecified upper arm
+393,Jacqueline Reynolds,jreynoldsaw@chronoengine.com,"Displaced spiral fracture of shaft of left tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+394,Kenneth Dean,kdeanax@state.gov,Personal history of malignant neoplasm of other parts of nervous tissue
+395,Evelyn Long,elongay@mayoclinic.com,"Poisoning by other estrogens and progestogens, assault"
+396,Jose Webb,jwebbaz@github.com,"Driver of heavy transport vehicle injured in collision with other motor vehicles in traffic accident, subsequent encounter"
+397,Rachel Torres,rtorresb0@bbc.co.uk,"Lead-induced gout, right elbow"
+398,Brenda Murray,bmurrayb1@cmu.edu,Other osteonecrosis of unspecified carpus
+399,Edward Edwards,eedwardsb2@a8.net,Exposure to reduction in atmospheric pressure while surfacing from deep-water diving
+400,Amy Martin,amartinb3@163.com,"Toxic effect of ketones, intentional self-harm, subsequent encounter"
+401,Julia Lopez,jlopezb4@ed.gov,Drug-induced adrenocortical insufficiency
+402,Charles Gonzalez,cgonzalezb5@seattletimes.com,"Nondisplaced fracture of greater trochanter of unspecified femur, initial encounter for open fracture type I or II"
+403,Albert Morrison,amorrisonb6@deliciousdays.com,"Drug-induced gout, hip"
+404,Anne Allen,aallenb7@arizona.edu,"Pregnancy with inconclusive fetal viability, other fetus"
+405,Gregory Warren,gwarrenb8@blogs.com,"Injury of unspecified nerve at forearm level, left arm, sequela"
+406,Jonathan Mendoza,jmendozab9@wunderground.com,"Injury of other nerves at forearm level, right arm, sequela"
+407,Stephen Flores,sfloresba@economist.com,"Nondisplaced fracture of medial cuneiform of left foot, initial encounter for closed fracture"
+408,Paul Mills,pmillsbb@woothemes.com,"Displaced oblique fracture of shaft of left fibula, initial encounter for open fracture type I or II"
+409,Elizabeth Medina,emedinabc@addtoany.com,"War operations involving gasoline bomb, civilian, initial encounter"
+410,Virginia Harper,vharperbd@google.pl,"Age-related osteoporosis with current pathological fracture, left humerus, initial encounter for fracture"
+411,Anne Rivera,ariverabe@usnews.com,"Legal intervention involving other gas, suspect injured, sequela"
+412,Alice Alexander,aalexanderbf@accuweather.com,"Crushing injury of neck, part unspecified"
+413,Raymond Medina,rmedinabg@theatlantic.com,"Toxic effect of zinc and its compounds, accidental (unintentional), subsequent encounter"
+414,Karen Greene,kgreenebh@wikipedia.org,"Nondisplaced fracture of distal phalanx of left great toe, subsequent encounter for fracture with nonunion"
+415,Angela Allen,aallenbi@newsvine.com,"Traumatic subarachnoid hemorrhage with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, subsequent encounter"
+416,Martin Robinson,mrobinsonbj@bing.com,"Toxic effect of unspecified organic solvent, undetermined, sequela"
+417,Susan Garza,sgarzabk@geocities.com,"Military operations involving explosion of aerial bomb, military personnel, subsequent encounter"
+418,Irene Montgomery,imontgomerybl@wufoo.com,"Toxic effect of tetrachloroethylene, accidental (unintentional), initial encounter"
+419,Samuel Diaz,sdiazbm@smugmug.com,Carcinoma in situ of unspecified female genital organs
+420,Julie Simpson,jsimpsonbn@wisc.edu,"Penetrating wound with foreign body of unspecified eyeball, subsequent encounter"
+421,Russell Hernandez,rhernandezbo@skyrock.com,"War operations involving other forms of conventional warfare, military personnel, initial encounter"
+422,Adam Simpson,asimpsonbp@hibu.com,"Legal intervention involving manhandling, law enforcement official injured, subsequent encounter"
+423,Virginia Bradley,vbradleybq@spotify.com,"Intentional self-harm by drowning and submersion in natural water, subsequent encounter"
+424,John Holmes,jholmesbr@cpanel.net,Sebaceous cyst
+425,Martin Larson,mlarsonbs@ucoz.ru,"Other mastoiditis and related conditions, right ear"
+426,Deborah Barnes,dbarnesbt@psu.edu,Burn of third degree of left thumb (nail)
+427,Ann Welch,awelchbu@businessinsider.com,"Displaced fracture of neck of third metacarpal bone, left hand, subsequent encounter for fracture with malunion"
+428,Kathleen Oliver,koliverbv@va.gov,Passenger in pick-up truck or van injured in collision with pedal cycle in traffic accident
+429,Carlos Thompson,cthompsonbw@sourceforge.net,"Toxic effect of unspecified gases, fumes and vapors, intentional self-harm"
+430,Willie Torres,wtorresbx@unicef.org,"Unspecified focal traumatic brain injury with loss of consciousness of 30 minutes or less, subsequent encounter"
+431,Bobby Andrews,bandrewsby@mapquest.com,"Supervision of pregnancy with history of in utero procedure during previous pregnancy, third trimester"
+432,Richard Torres,rtorresbz@vistaprint.com,"Unspecified fracture of shaft of unspecified tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+433,Johnny Lee,jleec0@vkontakte.ru,"Injury of deep peroneal nerve at ankle and foot level, unspecified leg, subsequent encounter"
+434,Benjamin Gray,bgrayc1@apache.org,"Disorder of ligament, unspecified foot"
+435,Willie Mills,wmillsc2@jalbum.net,"Superficial frostbite of left wrist, subsequent encounter"
+436,Deborah Collins,dcollinsc3@dell.com,"Rheumatoid bursitis, left hip"
+437,Harry Scott,hscottc4@cbsnews.com,Animal-rider or occupant of animal-drawn vehicle injured in transport accident
+438,Helen Dean,hdeanc5@amazon.de,"Nondisplaced fracture of olecranon process without intraarticular extension of left ulna, subsequent encounter for closed fracture with malunion"
+439,Robin Morgan,rmorganc6@shinystat.com,Type 2 diabetes mellitus with hyperosmolarity
+440,Lillian Peterson,lpetersonc7@1688.com,"Other complications following immunization, not elsewhere classified"
+441,Rose Cook,rcookc8@privacy.gov.au,Asphyxiation due to mechanical threat to breathing due to other causes
+442,Carolyn Freeman,cfreemanc9@goodreads.com,"Toxic effect of latex, intentional self-harm"
+443,Mary Murray,mmurrayca@goo.ne.jp,Injury of unspecified iliac vein
+444,Rebecca Matthews,rmatthewscb@nbcnews.com,"Liver and biliary tract disorders in pregnancy, first trimester"
+445,Philip Sanchez,psanchezcc@macromedia.com,"Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving"
+446,Sarah Wright,swrightcd@tinypic.com,"Oligohydramnios, first trimester, fetus 3"
+447,Irene Hunt,ihuntce@cornell.edu,"Laceration of muscle, fascia and tendon of left hip, subsequent encounter"
+448,Marie Ross,mrosscf@cbslocal.com,Beriberi
+449,Julia Garrett,jgarrettcg@nba.com,"Nondisplaced Zone II fracture of sacrum, initial encounter for open fracture"
+450,Jimmy Woods,jwoodsch@last.fm,"Fall down embankment (hill), subsequent encounter"
+451,Beverly Stephens,bstephensci@ucoz.com,"Toxic effect of unspecified alcohol, accidental (unintentional), subsequent encounter"
+452,Harold Pierce,hpiercecj@drupal.org,"Other foreign object in larynx causing asphyxiation, subsequent encounter"
+453,Alice Garrett,agarrettck@sphinn.com,Abnormal results of pulmonary function studies
+454,Lois Carroll,lcarrollcl@harvard.edu,Sledder colliding with stationary object
+455,Judy Alvarez,jalvarezcm@mozilla.org,"Blister (nonthermal) of left ear, initial encounter"
+456,Justin Parker,jparkercn@homestead.com,"Other cyst of bone, unspecified site"
+457,Eugene Daniels,edanielsco@vk.com,"Myositis ossificans traumatica, shoulder"
+458,Nicholas Fields,nfieldscp@plala.or.jp,Person boarding or alighting a three-wheeled motor vehicle injured in collision with pedal cycle
+459,Joseph Stanley,jstanleycq@devhub.com,Malignant neoplasm of left acoustic nerve
+460,Amanda Garza,agarzacr@technorati.com,Subluxation of T3/T4 thoracic vertebra
+461,Brandon Johnson,bjohnsoncs@msn.com,"Strain of unspecified muscles, fascia and tendons at thigh level, right thigh"
+462,Eugene Morris,emorrisct@adobe.com,"Quadruplet pregnancy with two or more monochorionic fetuses, third trimester"
+463,Tammy Miller,tmillercu@flavors.me,"Underdosing of cocaine, sequela"
+464,Emily Murray,emurraycv@barnesandnoble.com,Intraoperative hemorrhage and hematoma of skin and subcutaneous tissue complicating other procedure
+465,Nicholas Adams,nadamscw@meetup.com,"Unspecified injury of flexor muscle, fascia and tendon of left little finger at forearm level, sequela"
+466,Lori Reynolds,lreynoldscx@phpbb.com,"Fracture of unspecified part of neck of left femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+467,Nancy Simpson,nsimpsoncy@php.net,Other specified degenerative diseases of nervous system
+468,Clarence Harris,charriscz@loc.gov,Alcohol abuse with alcohol-induced sexual dysfunction
+469,Jonathan Hughes,jhughesd0@miitbeian.gov.cn,"Posterior displaced Type II dens fracture, subsequent encounter for fracture with routine healing"
+470,Jessica Williamson,jwilliamsond1@sohu.com,"Nondisplaced fracture of lateral cuneiform of left foot, subsequent encounter for fracture with routine healing"
+471,Lisa Hanson,lhansond2@fema.gov,"Laceration of diaphragm, subsequent encounter"
+472,Bonnie Mason,bmasond3@wikia.com,Malignant neoplasm of colon
+473,Phillip Campbell,pcampbelld4@usnews.com,Monoplegia of lower limb following unspecified cerebrovascular disease affecting left dominant side
+474,Richard Greene,rgreened5@bluehost.com,"Fall from or off toilet with subsequent striking against object, sequela"
+475,Beverly Knight,bknightd6@answers.com,"Poisoning by other synthetic narcotics, assault, initial encounter"
+476,Brian Patterson,bpattersond7@usatoday.com,"Unspecified occipital condyle fracture, subsequent encounter for fracture with routine healing"
+477,Nicole Barnes,nbarnesd8@ihg.com,"Burn with resulting rupture and destruction of right eyeball, subsequent encounter"
+478,Clarence Carroll,ccarrolld9@auda.org.au,"Other fracture of shaft of radius, unspecified arm, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+479,Kelly Brooks,kbrooksda@infoseek.co.jp,"Other contact with other mammals, subsequent encounter"
+480,Fred Reid,freiddb@guardian.co.uk,"Poisoning by calcium-channel blockers, accidental (unintentional), initial encounter"
+481,Robert Wright,rwrightdc@dmoz.org,"Pressure ulcer of left ankle, stage 1"
+482,Eric Fowler,efowlerdd@elpais.com,"Toxic effect of carbon monoxide from unspecified source, assault"
+483,Marilyn Flores,mfloresde@hugedomains.com,"Ischiocapsular ligament sprain of left hip, sequela"
+484,Edward Adams,eadamsdf@china.com.cn,"Pathological fracture, left hand, subsequent encounter for fracture with nonunion"
+485,Alan Burke,aburkedg@so-net.ne.jp,Disturbances of skin sensation
+486,Raymond Hunt,rhuntdh@dedecms.com,"Puncture wound with foreign body of left eyelid and periocular area, subsequent encounter"
+487,Douglas Ray,draydi@google.cn,"Merkel cell carcinoma of right upper limb, including shoulder"
+488,Ann Grant,agrantdj@mozilla.org,"Other mechanical complication of balloon (counterpulsation) device, sequela"
+489,Kathryn Wright,kwrightdk@cornell.edu,Other specified conduction disorders
+490,Shirley Reed,sreeddl@miitbeian.gov.cn,"Strain of muscle(s) and tendon(s) of peroneal muscle group at lower leg level, unspecified leg"
+491,Jimmy Bennett,jbennettdm@youku.com,"Nondisplaced fracture of head of unspecified radius, subsequent encounter for closed fracture with nonunion"
+492,Harry Hill,hhilldn@pcworld.com,"Minor laceration of tail of pancreas, sequela"
+493,Jeffrey Bailey,jbaileydo@redcross.org,"Pregnancy related exhaustion and fatigue, second trimester"
+494,Maria Gibson,mgibsondp@theguardian.com,"Toxic effect of latex, assault, initial encounter"
+495,Charles Mills,cmillsdq@mail.ru,"Other displaced fracture of lower end of unspecified humerus, subsequent encounter for fracture with delayed healing"
+496,Anthony Coleman,acolemandr@1und1.de,"Salter-Harris Type I physeal fracture of left calcaneus, subsequent encounter for fracture with malunion"
+497,Alan Black,ablackds@mlb.com,"Nondisplaced fracture of greater trochanter of unspecified femur, subsequent encounter for open fracture type I or II with routine healing"
+498,Gary Howard,ghowarddt@1688.com,Unspecified atherosclerosis
+499,Jonathan Daniels,jdanielsdu@msu.edu,"Peroxisomal disorder, unspecified"
+500,Annie Oliver,aoliverdv@pinterest.com,"Toxic effect of corrosive alkalis and alkali-like substances, accidental (unintentional), subsequent encounter"
+501,Marie Cook,mcookdw@w3.org,"Nondisplaced articular fracture of head of left femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+502,Gloria Rose,grosedx@shareasale.com,"Laceration of flexor muscle, fascia and tendon of left thumb at forearm level, subsequent encounter"
+503,Norma Carpenter,ncarpenterdy@apache.org,"Pathological fracture in other disease, unspecified foot, subsequent encounter for fracture with malunion"
+504,Sandra Russell,srusselldz@mapquest.com,Infection and inflammatory reaction due to internal right knee prosthesis
+505,Jose Riley,jrileye0@wisc.edu,Open bite of right front wall of thorax with penetration into thoracic cavity
+506,Nancy Mendoza,nmendozae1@infoseek.co.jp,"Laceration of extensor muscle, fascia and tendon of other finger at wrist and hand level"
+507,Rachel Kennedy,rkennedye2@google.com.au,"Tubulo-interstitial nephritis, not specified as acute or chronic"
+508,Catherine Snyder,csnydere3@acquirethisname.com,"Nondisplaced fracture of medial malleolus of left tibia, subsequent encounter for closed fracture with malunion"
+509,Joshua Vasquez,jvasqueze4@examiner.com,"Fracture of unspecified phalanx of right ring finger, sequela"
+510,Douglas Thompson,dthompsone5@google.it,"Labor and delivery complicated by other cord complications, fetus 5"
+511,Marie Burke,mburkee6@npr.org,"Maternal care for retroversion of gravid uterus, first trimester"
+512,Keith Carpenter,kcarpentere7@ehow.com,"Underdosing of hemostatic drugs, subsequent encounter"
+513,Terry Freeman,tfreemane8@ucoz.com,"Ankylosis, ankle and foot"
+514,Paul Robertson,probertsone9@friendfeed.com,"Laceration of unspecified muscle, fascia and tendon at shoulder and upper arm level, left arm"
+515,Carol Day,cdayea@google.cn,Hypertrophic scar
+516,James Ramos,jramoseb@independent.co.uk,Injury of superior vena cava
+517,Ronald West,rwestec@geocities.com,Superficial foreign body of right forearm
+518,Beverly Hart,bharted@addtoany.com,"Other secondary chronic gout, left knee"
+519,Jerry Ford,jfordee@ucla.edu,Toxic effects of chromium and its compounds
+520,Richard Freeman,rfreemanef@weebly.com,"Toxic effect of cadmium and its compounds, intentional self-harm"
+521,Alice Alvarez,aalvarezeg@hud.gov,"Fracture of ramus of mandible, unspecified side, subsequent encounter for fracture with routine healing"
+522,Douglas Sims,dsimseh@exblog.jp,"Other drowning and submersion, undetermined intent, initial encounter"
+523,Patricia Hunter,phunterei@sohu.com,"Strain of muscle(s) and tendon(s) of the rotator cuff of right shoulder, sequela"
+524,Henry Griffin,hgriffinej@wisc.edu,Exposure of implanted vaginal mesh into vagina
+525,Robert Martinez,rmartinezek@examiner.com,"Unspecified sprain of right little finger, subsequent encounter"
+526,Michelle Ortiz,mortizel@bloglines.com,"Displaced midcervical fracture of left femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+527,Eugene Snyder,esnyderem@163.com,"Partial traumatic transmetacarpal amputation of right hand, initial encounter"
+528,Elizabeth Nguyen,enguyenen@creativecommons.org,Chronic frontal sinusitis
+529,Janice Hansen,jhanseneo@kickstarter.com,"Diplacusis, right ear"
+530,Kevin Wagner,kwagnerep@booking.com,Minor laceration of right kidney
+531,Henry Austin,haustineq@tumblr.com,"Other specified injury of left external jugular vein, initial encounter"
+532,Richard Elliott,relliotter@virginia.edu,"Poisoning by, adverse effect of and underdosing of otorhinolaryngological drugs and preparations"
+533,Nicholas Hernandez,nhernandezes@vk.com,"Primary open-angle glaucoma, bilateral, mild stage"
+534,Walter Hill,whillet@qq.com,"Zygomatic fracture, unspecified side"
+535,Julie Ray,jrayeu@weather.com,Contusion of right thigh
+536,Billy Morris,bmorrisev@zimbio.com,"Unspecified open wound of left middle finger without damage to nail, sequela"
+537,Debra Phillips,dphillipsew@google.com.au,Newborn affected by maternal renal and urinary tract diseases
+538,Dennis Davis,ddavisex@wikia.com,"Mild intermittent asthma, uncomplicated"
+539,Christopher Fernandez,cfernandezey@shutterfly.com,"Post-traumatic osteoarthritis, shoulder"
+540,Ernest Murphy,emurphyez@mapquest.com,"Other contact with rat, sequela"
+541,Shirley Torres,storresf0@storify.com,Contact with nonvenomous plant thorns and spines and sharp leaves
+542,Nancy Harrison,nharrisonf1@skyrock.com,"Leakage of other vascular grafts, sequela"
+543,Martin Mason,mmasonf2@mysql.com,"Toxic effect of dichloromethane, assault, subsequent encounter"
+544,Carolyn Powell,cpowellf3@sun.com,"Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, right eye"
+545,Alice Gilbert,agilbertf4@domainmarket.com,"Nontraumatic ischemic infarction of muscle, unspecified thigh"
+546,Tammy Thompson,tthompsonf5@friendfeed.com,"Unspecified sprain of right ring finger, initial encounter"
+547,Sharon Coleman,scolemanf6@tamu.edu,"Lesion of sciatic nerve, bilateral lower limbs"
+548,Billy Crawford,bcrawfordf7@opera.com,"Other exposure to controlled fire, not in building or structure, subsequent encounter"
+549,Carlos Graham,cgrahamf8@artisteer.com,Superficial foreign body of scrotum and testes
+550,Frances Bell,fbellf9@addthis.com,Complete traumatic amputation of nose
+551,Jason Brown,jbrownfa@nps.gov,"Other foreign object in respiratory tract, part unspecified causing other injury"
+552,Anne Hudson,ahudsonfb@comsenz.com,"Laceration of other blood vessels at ankle and foot level, right leg, sequela"
+553,George Reid,greidfc@newsvine.com,"Laceration with foreign body, unspecified ankle, subsequent encounter"
+554,Carlos Peters,cpetersfd@goo.ne.jp,"Struck by softball, subsequent encounter"
+555,Jonathan Hill,jhillfe@theglobeandmail.com,Other fracture of upper end of unspecified radius
+556,Steven Simpson,ssimpsonff@twitpic.com,Other hemochromatosis
+557,Sara Richardson,srichardsonfg@sohu.com,"Displaced transverse fracture of shaft of right radius, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+558,Earl Watson,ewatsonfh@illinois.edu,"Spinal enthesopathy, lumbosacral region"
+559,Lisa Gordon,lgordonfi@hao123.com,"Nondisplaced segmental fracture of shaft of unspecified fibula, initial encounter for closed fracture"
+560,Jerry Williams,jwilliamsfj@ycombinator.com,Extramedullary plasmacytoma in relapse
+561,Mary Hill,mhillfk@pinterest.com,"Moderate laceration of spleen, subsequent encounter"
+562,Diana Warren,dwarrenfl@globo.com,"Toxic effect of venom of other arthropod, accidental (unintentional), subsequent encounter"
+563,Denise Wood,dwoodfm@altervista.org,"Other specified inflammatory spondylopathies, cervicothoracic region"
+564,Nicholas Dixon,ndixonfn@java.com,Sprain of unspecified ligament of unspecified ankle
+565,Shawn Carpenter,scarpenterfo@vinaora.com,Secondary uterine inertia
+566,Kathryn Bishop,kbishopfp@apple.com,"Corrosion of third degree of right lower leg, sequela"
+567,Joan Cruz,jcruzfq@patch.com,"Other fracture of fifth metacarpal bone, left hand, subsequent encounter for fracture with malunion"
+568,Maria Stewart,mstewartfr@ibm.com,Juvenile osteochondrosis of tarsus
+569,Dorothy Austin,daustinfs@dropbox.com,"Other osteoporosis with current pathological fracture, forearm"
+570,Russell Stewart,rstewartft@wiley.com,"Deaf nonspeaking, not elsewhere classified"
+571,Fred Gonzalez,fgonzalezfu@illinois.edu,"Traumatic subdural hemorrhage with loss of consciousness of any duration with death due to brain injury before regaining consciousness, initial encounter"
+572,Bonnie Ellis,bellisfv@walmart.com,"Foreign body in anus and rectum, initial encounter"
+573,Diana Clark,dclarkfw@prlog.org,"Nondisplaced fracture of olecranon process with intraarticular extension of unspecified ulna, subsequent encounter for open fracture type I or II with nonunion"
+574,Jason Williamson,jwilliamsonfx@ihg.com,Acute cholecystitis
+575,Louise Carter,lcarterfy@desdev.cn,"Pathological fracture in other disease, left tibia, subsequent encounter for fracture with nonunion"
+576,Fred Freeman,ffreemanfz@1und1.de,"Breakdown (mechanical) of internal fixation device of bone of right forearm, sequela"
+577,Dorothy Moore,dmooreg0@diigo.com,"Unspecified subluxation of unspecified shoulder joint, sequela"
+578,Jose Chavez,jchavezg1@e-recht24.de,Heat exposure on board unspecified watercraft
+579,Joe Stephens,jstephensg2@icio.us,"Complete traumatic amputation of unspecified lower leg, level unspecified, sequela"
+580,Michael Pierce,mpierceg3@hexun.com,"Unspecified fracture of first metacarpal bone, left hand, initial encounter for closed fracture"
+581,Martin Bishop,mbishopg4@rakuten.co.jp,"Unstable burst fracture of first lumbar vertebra, initial encounter for open fracture"
+582,Joseph Weaver,jweaverg5@timesonline.co.uk,"Laceration with foreign body of unspecified front wall of thorax without penetration into thoracic cavity, initial encounter"
+583,Phyllis Rodriguez,prodriguezg6@imgur.com,Monoplegia of lower limb following nontraumatic intracerebral hemorrhage affecting right non-dominant side
+584,Andrea Ruiz,aruizg7@nba.com,"Spontaneous rupture of other tendons, right shoulder"
+585,Christopher James,cjamesg8@dyndns.org,"Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities, left leg"
+586,Joe Greene,jgreeneg9@ted.com,"Felty's syndrome, unspecified hip"
+587,Harry Stephens,hstephensga@xrea.com,"Displaced spiral fracture of shaft of ulna, right arm, subsequent encounter for open fracture type I or II with delayed healing"
+588,Catherine Perkins,cperkinsgb@e-recht24.de,Chronic enlargement of lacrimal gland
+589,Joan Frazier,jfraziergc@mit.edu,"Hallucinogen abuse with hallucinogen-induced psychotic disorder, unspecified"
+590,Gregory Rogers,grogersgd@webnode.com,"Nondisplaced fracture of distal phalanx of left little finger, initial encounter for open fracture"
+591,Rebecca Gonzales,rgonzalesge@hud.gov,Opioid abuse with opioid-induced mood disorder
+592,Doris Rose,drosegf@e-recht24.de,"Aneurysmal bone cyst, other site"
+593,Stephen Fernandez,sfernandezgg@google.de,Burn of second degree of unspecified thigh
+594,Jimmy Moreno,jmorenogh@deliciousdays.com,Abscess of left lower eyelid
+595,Norma Ward,nwardgi@netvibes.com,"Burn of second degree of unspecified multiple fingers (nail), including thumb"
+596,Phyllis Russell,prussellgj@amazon.com,Open bite of right shoulder
+597,Joseph Chavez,jchavezgk@arstechnica.com,Other specified disorders of arteries and arterioles
+598,Louise Watkins,lwatkinsgl@sfgate.com,"Displaced spiral fracture of shaft of left femur, subsequent encounter for open fracture type I or II with delayed healing"
+599,Sarah Berry,sberrygm@desdev.cn,Liver and biliary tract disorders in pregnancy
+600,Betty Dean,bdeangn@unicef.org,"Nondisplaced fracture of lateral malleolus of left fibula, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+601,George Martinez,gmartinezgo@wikia.com,Dislocation of internal right hip prosthesis
+602,Wayne Smith,wsmithgp@blinklist.com,Corrosions involving 80-89% of body surface
+603,Rebecca Walker,rwalkergq@surveymonkey.com,"Broken internal right knee prosthesis, subsequent encounter"
+604,Brian Black,bblackgr@nifty.com,"Displaced fracture of lateral condyle of unspecified femur, subsequent encounter for closed fracture with routine healing"
+605,Kimberly Bradley,kbradleygs@pinterest.com,Crushing injury of left lower leg
+606,Tammy Simpson,tsimpsongt@imdb.com,Subacute combined degeneration of spinal cord in diseases classified elsewhere
+607,Kathryn Gibson,kgibsongu@phoca.cz,"Other infective (teno)synovitis, right hip"
+608,Donna Gomez,dgomezgv@cam.ac.uk,"Blister (nonthermal) of right shoulder, subsequent encounter"
+609,Donald Patterson,dpattersongw@cbsnews.com,"Other superficial bite of other finger, sequela"
+610,Benjamin Palmer,bpalmergx@timesonline.co.uk,Displaced trimalleolar fracture of right lower leg
+611,Jessica Hicks,jhicksgy@exblog.jp,"Unspecified occupant of heavy transport vehicle injured in collision with fixed or stationary object in traffic accident, subsequent encounter"
+612,John Bryant,jbryantgz@xinhuanet.com,Spotted fever [tick-borne rickettsioses]
+613,Billy Gomez,bgomezh0@ox.ac.uk,"Other injury of extensor muscle, fascia and tendon of right little finger at forearm level, subsequent encounter"
+614,Deborah Evans,devansh1@usa.gov,Burn due to localized fire on board passenger vessel
+615,Gary Cooper,gcooperh2@whitehouse.gov,"Corrosion of first degree of right toe(s) (nail), sequela"
+616,Margaret Robinson,mrobinsonh3@imgur.com,"Nondisplaced other fracture of tuberosity of left calcaneus, sequela"
+617,Julia Arnold,jarnoldh4@scribd.com,"Salter-Harris Type II physeal fracture of lower end of ulna, unspecified arm, subsequent encounter for fracture with malunion"
+618,Linda Castillo,lcastilloh5@blogger.com,Atelectasis
+619,Richard Harper,rharperh6@usgs.gov,"External constriction, left knee, subsequent encounter"
+620,Sean Perkins,sperkinsh7@jigsy.com,"Pedestrian on skateboard injured in collision with two- or three-wheeled motor vehicle, unspecified whether traffic or nontraffic accident, subsequent encounter"
+621,Nancy Henderson,nhendersonh8@yelp.com,"Unspecified injury of femoral vein at hip and thigh level, left leg, subsequent encounter"
+622,Patrick Marshall,pmarshallh9@ucoz.com,"Salter-Harris Type II physeal fracture of right calcaneus, subsequent encounter for fracture with delayed healing"
+623,Ann Cooper,acooperha@google.com.hk,"Corrosion of first degree of left hand, unspecified site, sequela"
+624,Brandon Meyer,bmeyerhb@theatlantic.com,"Unspecified nondisplaced fracture of seventh cervical vertebra, subsequent encounter for fracture with nonunion"
+625,Joshua Martin,jmartinhc@xrea.com,"Maternal care for excessive fetal growth, third trimester, fetus 5"
+626,Anne Fowler,afowlerhd@de.vu,Chronic venous hypertension (idiopathic) with other complications of left lower extremity
+627,Teresa Hansen,thansenhe@tuttocitta.it,"Poisoning by other hormone antagonists, accidental (unintentional), sequela"
+628,Carolyn Romero,cromerohf@wunderground.com,"Struck by nonvenomous snake, subsequent encounter"
+629,Evelyn Allen,eallenhg@delicious.com,"Multiple fractures of pelvis with stable disruption of pelvic ring, sequela"
+630,Keith Holmes,kholmeshh@cbslocal.com,Dislocation of distal interphalangeal joint of left thumb
+631,Louise Howell,lhowellhi@w3.org,"Toxic effect of fusel oil, assault, initial encounter"
+632,Judy Hernandez,jhernandezhj@plala.or.jp,"Insect bite (nonvenomous) of anus, initial encounter"
+633,Andrea Martin,amartinhk@topsy.com,"Displaced fracture of body of scapula, right shoulder, initial encounter for closed fracture"
+634,Willie Harvey,wharveyhl@hatena.ne.jp,"Burn of unspecified degree of right lower leg, initial encounter"
+635,Ann Porter,aporterhm@meetup.com,"Displaced fracture of base of third metacarpal bone, right hand, subsequent encounter for fracture with routine healing"
+636,Willie Brown,wbrownhn@bigcartel.com,Rheumatoid lung disease with rheumatoid arthritis of unspecified knee
+637,Brenda Cole,bcoleho@ebay.com,"Unspecified injury of ulnar artery at wrist and hand level of right arm, sequela"
+638,Kathleen Burton,kburtonhp@alexa.com,"Contact with powered woodworking and forming machines, subsequent encounter"
+639,Arthur Alvarez,aalvarezhq@columbia.edu,"Person injured in collision between car and pick-up truck or van, nontraffic, initial encounter"
+640,Charles Anderson,candersonhr@cnn.com,"Laceration with foreign body of left ear, subsequent encounter"
+641,Ruby Sullivan,rsullivanhs@sphinn.com,"Carrier of infectious disease, unspecified"
+642,Christina Washington,cwashingtonht@economist.com,"Complete traumatic amputation of left lower leg, level unspecified, initial encounter"
+643,Sarah Alvarez,salvarezhu@prnewswire.com,Ameboma of intestine
+644,Ronald James,rjameshv@abc.net.au,"Articular disc disorder of temporomandibular joint, unspecified side"
+645,Mary Harper,mharperhw@ucoz.com,"Displacement of surgically created arteriovenous shunt, initial encounter"
+646,Jimmy Olson,jolsonhx@t-online.de,Speech and language deficits following unspecified cerebrovascular disease
+647,Edward Jacobs,ejacobshy@naver.com,"Other superficial bite of right back wall of thorax, subsequent encounter"
+648,Linda Fuller,lfullerhz@taobao.com,Blister (nonthermal) of unspecified eyelid and periocular area
+649,Todd Mason,tmasoni0@omniture.com,"Nondisplaced comminuted fracture of shaft of unspecified femur, subsequent encounter for closed fracture with malunion"
+650,Randy Wells,rwellsi1@msu.edu,"Sprain of unspecified ligament of unspecified ankle, subsequent encounter"
+651,Anna Howell,ahowelli2@patch.com,"Toxic effect of venom of centipedes and venomous millipedes, undetermined"
+652,Howard Little,hlittlei3@google.co.jp,Postprocedural hematoma of ear and mastoid process following other procedure
+653,Angela Roberts,arobertsi4@java.com,"Unspecified occupant of pick-up truck or van injured in collision with other nonmotor vehicle in traffic accident, subsequent encounter"
+654,Johnny Phillips,jphillipsi5@example.com,"Villonodular synovitis (pigmented), right ankle and foot"
+655,Janice Pierce,jpiercei6@bloglovin.com,"Fracture of unspecified part of right clavicle, sequela"
+656,Janet Hawkins,jhawkinsi7@cnn.com,Fall in (into) bucket of water causing drowning and submersion
+657,Barbara Jackson,bjacksoni8@nba.com,"Nondisplaced trimalleolar fracture of left lower leg, initial encounter for closed fracture"
+658,Donald Williamson,dwilliamsoni9@blogspot.com,"Subluxation of unspecified scapula, initial encounter"
+659,Eric Allen,eallenia@wiley.com,Other postprocedural endocrine and metabolic complications and disorders
+660,Donald Crawford,dcrawfordib@blogtalkradio.com,"Unspecified fracture of the lower end of left radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+661,Carl Sanders,csandersic@joomla.org,Other disorders of mineral metabolism
+662,Todd Hamilton,thamiltonid@com.com,Laceration without foreign body of other specified part of neck
+663,Doris Hawkins,dhawkinsie@berkeley.edu,"Poisoning by unspecified drugs, medicaments and biological substances, assault, sequela"
+664,Laura Romero,lromeroif@about.com,"Poisoning by mixed antiepileptics, undetermined"
+665,Jane Fernandez,jfernandezig@deviantart.com,"Salter-Harris Type I physeal fracture of upper end of right tibia, subsequent encounter for fracture with malunion"
+666,Debra Daniels,ddanielsih@theatlantic.com,"Burn of unspecified degree of multiple sites of unspecified lower limb, except ankle and foot"
+667,Amanda Carr,acarrii@vistaprint.com,"Other fracture of other metacarpal bone, subsequent encounter for fracture with routine healing"
+668,Kenneth Ross,krossij@samsung.com,"Laceration without foreign body of right thumb without damage to nail, subsequent encounter"
+669,Brenda Hill,bhillik@imgur.com,"Toxic effect of nitrogen oxides, accidental (unintentional), sequela"
+670,Mildred Carroll,mcarrollil@tripadvisor.com,Unspecified heterophoria
+671,Henry Mills,hmillsim@apache.org,"Displaced oblique fracture of shaft of unspecified ulna, subsequent encounter for closed fracture with malunion"
+672,Bobby Reyes,breyesin@liveinternet.ru,"Other atherosclerosis of native arteries of extremities, unspecified extremity"
+673,Denise Garcia,dgarciaio@aol.com,"Pathological fracture in other disease, unspecified site, sequela"
+674,Helen Robinson,hrobinsonip@meetup.com,"Unspecified physeal fracture of lower end of ulna, left arm, subsequent encounter for fracture with delayed healing"
+675,Virginia Berry,vberryiq@gravatar.com,Carrier of infections with a predominantly sexual mode of transmission
+676,Jean Mitchell,jmitchellir@uiuc.edu,"Laceration without foreign body of left middle finger without damage to nail, initial encounter"
+677,Carol Reid,creidis@phoca.cz,"Dislocation of other internal joint prosthesis, initial encounter"
+678,Norma Schmidt,nschmidtit@cbsnews.com,"Acute hematogenous osteomyelitis, right humerus"
+679,Julie Watson,jwatsoniu@springer.com,"Nondisplaced spiral fracture of shaft of left femur, initial encounter for open fracture type I or II"
+680,Ralph Ramirez,rramireziv@abc.net.au,"Toxic effect of sulfur dioxide, accidental (unintentional), initial encounter"
+681,Henry Henry,hhenryiw@shareasale.com,"Occupant of animal-drawn vehicle injured in other transport accident, subsequent encounter"
+682,Adam Robertson,arobertsonix@booking.com,"Injury of olfactory [1st ] nerve, left side"
+683,Jessica Stone,jstoneiy@lulu.com,"Infectious mononucleosis, unspecified with polyneuropathy"
+684,Sarah Jacobs,sjacobsiz@newsvine.com,"Salter-Harris Type III physeal fracture of upper end of left tibia, subsequent encounter for fracture with routine healing"
+685,Wanda Hunt,whuntj0@tamu.edu,Other specified helminthiases
+686,Ruby Martin,rmartinj1@comcast.net,"Nondisplaced transverse fracture of shaft of unspecified tibia, subsequent encounter for closed fracture with nonunion"
+687,Joyce Allen,jallenj2@phoca.cz,"Fracture of other part of scapula, unspecified shoulder, subsequent encounter for fracture with malunion"
+688,Linda Mccoy,lmccoyj3@tmall.com,"Displaced fracture of coronoid process of unspecified ulna, subsequent encounter for closed fracture with nonunion"
+689,Jerry Frazier,jfrazierj4@discuz.net,"Exposure to excessive heat of man-made origin, sequela"
+690,Todd Webb,twebbj5@sciencedaily.com,"Pedal cyclist (driver) (passenger) injured in transport accident with military vehicle, initial encounter"
+691,William Wood,wwoodj6@whitehouse.gov,Injury of popliteal artery
+692,Jane Walker,jwalkerj7@cornell.edu,"Other glider (nonpowered) accident injuring occupant, sequela"
+693,Paul Burton,pburtonj8@eventbrite.com,"Dislocation of interphalangeal joint of right lesser toe(s), sequela"
+694,Michelle Kelly,mkellyj9@berkeley.edu,"Corrosion of second degree of lip(s), initial encounter"
+695,Randy Baker,rbakerja@reddit.com,"Salter-Harris Type III physeal fracture of lower end of right tibia, subsequent encounter for fracture with delayed healing"
+696,Pamela Turner,pturnerjb@facebook.com,Laceration of blood vessel of right index finger
+697,Elizabeth Sanchez,esanchezjc@theatlantic.com,"Poisoning by unspecified general anesthetics, undetermined, subsequent encounter"
+698,Douglas Ramos,dramosjd@wired.com,"Displaced oblique fracture of shaft of left radius, sequela"
+699,Catherine Carr,ccarrje@wordpress.org,"Other physeal fracture of lower end of radius, unspecified arm, subsequent encounter for fracture with malunion"
+700,Norma Miller,nmillerjf@hatena.ne.jp,"Other specified injury of unspecified vertebral artery, subsequent encounter"
+701,Wayne Alvarez,walvarezjg@google.com.br,Other complications of gastrostomy
+702,Chris Harrison,charrisonjh@reverbnation.com,"Necrobiosis lipoidica, not elsewhere classified"
+703,Paula Mendoza,pmendozaji@uol.com.br,"Stress fracture, unspecified site"
+704,Carolyn Simpson,csimpsonjj@flickr.com,"Poisoning by other topical agents, assault"
+705,Jonathan Mills,jmillsjk@gov.uk,"Intentional self-harm by drowning and submersion while in swimming pool, initial encounter"
+706,Paul Robertson,probertsonjl@hp.com,"Corrosion of second degree of right forearm, initial encounter"
+707,Jeremy Ward,jwardjm@de.vu,Complications of other transplanted tissue
+708,Beverly Collins,bcollinsjn@vimeo.com,"Displaced longitudinal fracture of right patella, initial encounter for open fracture type I or II"
+709,Brian Weaver,bweaverjo@ycombinator.com,"Burn of first degree of left upper arm, subsequent encounter"
+710,Heather Carroll,hcarrolljp@blog.com,"Adverse effect of other drug primarily affecting the autonomic nervous system, initial encounter"
+711,Clarence Parker,cparkerjq@linkedin.com,"Unspecified fracture of upper end of right tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+712,Fred Romero,fromerojr@psu.edu,"Burn of second degree of unspecified thumb (nail), initial encounter"
+713,Richard Castillo,rcastillojs@tamu.edu,Puncture wound with foreign body of foot
+714,Russell Washington,rwashingtonjt@blogspot.com,"Nondisplaced fracture of base of neck of left femur, subsequent encounter for open fracture type I or II with delayed healing"
+715,Judy Shaw,jshawju@techcrunch.com,"Activity, frisbee"
+716,Arthur Gibson,agibsonjv@paginegialle.it,Corrosion of first degree of right thigh
+717,Julie Murphy,jmurphyjw@hexun.com,Diseases of pulp and periapical tissues
+718,Jessica Evans,jevansjx@time.com,"Other meniscus derangements, posterior horn of medial meniscus, left knee"
+719,Terry Austin,taustinjy@edublogs.org,"Unspecified epiphora, right lacrimal gland"
+720,Russell Fields,rfieldsjz@elpais.com,Direct infection of ankle and foot in infectious and parasitic diseases classified elsewhere
+721,Marie Ray,mrayk0@freewebs.com,"Laceration of extensor muscle, fascia and tendon of left middle finger at forearm level, initial encounter"
+722,Victor Diaz,vdiazk1@webs.com,"Laceration with foreign body of right elbow, sequela"
+723,Jack Gilbert,jgilbertk2@bbc.co.uk,Tuberculosis of kidney and ureter
+724,Joan Flores,jfloresk3@com.com,"Poisoning by antiviral drugs, assault, subsequent encounter"
+725,Kenneth Murphy,kmurphyk4@amazon.de,Personal history of malignant neoplasm of digestive organs
+726,Arthur Wilson,awilsonk5@bing.com,"Penetrating wound without foreign body of unspecified eyeball, subsequent encounter"
+727,Ralph Stone,rstonek6@fastcompany.com,"Burn of second degree of unspecified toe(s) (nail), sequela"
+728,Albert Harper,aharperk7@nba.com,"Unspecified fracture of right patella, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+729,Lisa Cunningham,lcunninghamk8@loc.gov,Other neonatal peritonitis
+730,Matthew Garcia,mgarciak9@mapy.cz,"Maternal care for disproportion due to hydrocephalic fetus, fetus 1"
+731,Mary Porter,mporterka@howstuffworks.com,"Laceration without foreign body of left middle finger with damage to nail, subsequent encounter"
+732,Anthony Harris,aharriskb@utexas.edu,"Superficial thrombophlebitis in pregnancy, unspecified trimester"
+733,Maria Black,mblackkc@constantcontact.com,"Exposure to infrared radiation, sequela"
+734,Deborah Reyes,dreyeskd@rakuten.co.jp,Burn of second degree of right foot
+735,Theresa Ford,tfordke@prlog.org,Human immunodeficiency virus [HIV] disease complicating pregnancy
+736,Keith Marshall,kmarshallkf@soup.io,Other hypoglycemia
+737,Anthony Hunter,ahunterkg@chronoengine.com,"Unspecified occupant of three-wheeled motor vehicle injured in collision with car, pick-up truck or van in traffic accident"
+738,Daniel Richards,drichardskh@soundcloud.com,Corrosion of unspecified degree of right upper arm
+739,Deborah Green,dgreenki@mail.ru,"Poisoning by other nonsteroidal anti-inflammatory drugs [NSAID], intentional self-harm, sequela"
+740,Robert Allen,rallenkj@youtu.be,"Foreign body in anus and rectum, initial encounter"
+741,Charles Hudson,chudsonkk@g.co,"Adverse effect of pertussis vaccine, including combinations with a pertussis component, sequela"
+742,Tina Turner,tturnerkl@bigcartel.com,"Pregnancy related renal disease, second trimester"
+743,Todd Alvarez,talvarezkm@meetup.com,"Contusion of unspecified hand, initial encounter"
+744,Margaret Long,mlongkn@phpbb.com,"Other mechanical complication of implanted electronic neurostimulator, generator, subsequent encounter"
+745,Peter Murray,pmurrayko@miitbeian.gov.cn,"Partial traumatic amputation at unspecified hip joint, sequela"
+746,Diana Harris,dharriskp@vimeo.com,"Abrasion of lip, sequela"
+747,Howard Adams,hadamskq@nymag.com,"Puncture wound with foreign body of right elbow, subsequent encounter"
+748,Katherine Castillo,kcastillokr@tripadvisor.com,Unspecified occupant of pick-up truck or van injured in collision with other motor vehicles in traffic accident
+749,Andrew Dunn,adunnks@cam.ac.uk,"Other effects of lightning, subsequent encounter"
+750,Virginia Morgan,vmorgankt@economist.com,"Nondisplaced comminuted fracture of unspecified patella, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+751,Jack Pierce,jpierceku@yandex.ru,Other displaced fracture of lower end of right humerus
+752,Joyce Johnson,jjohnsonkv@answers.com,"Displaced fracture of lateral condyle of left femur, subsequent encounter for open fracture type I or II with malunion"
+753,Ralph Burke,rburkekw@wikimedia.org,"Central cord syndrome at C8 level of cervical spinal cord, sequela"
+754,Rose Thompson,rthompsonkx@webs.com,"Infective myositis, unspecified site"
+755,Paula Morrison,pmorrisonky@istockphoto.com,"Alcohol use, unspecified with alcohol-induced anxiety disorder"
+756,Teresa Burns,tburnskz@reverbnation.com,Voyeurism
+757,Janice Alexander,jalexanderl0@icq.com,Struck by falling object on other unpowered watercraft
+758,Carlos Ryan,cryanl1@tumblr.com,Cerebral infarction due to embolism of right anterior cerebral artery
+759,Elizabeth Kennedy,ekennedyl2@umn.edu,Other specified acquired deformities of right lower leg
+760,Kathryn Mitchell,kmitchelll3@mapquest.com,"Displaced fracture of distal phalanx of unspecified thumb, initial encounter for closed fracture"
+761,Jacqueline Hernandez,jhernandezl4@springer.com,Corrosion of unspecified degree of right foot
+762,George Harper,gharperl5@reddit.com,"Urethral syndrome, unspecified"
+763,Linda Reid,lreidl6@cyberchimps.com,"Crushing injury of abdomen, lower back, and pelvis"
+764,Marie Murphy,mmurphyl7@eventbrite.com,"Barton's fracture of left radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+765,Sharon Lane,slanel8@diigo.com,"Person on outside of pick-up truck or van injured in collision with pedestrian or animal in nontraffic accident, sequela"
+766,Martin Richards,mrichardsl9@icio.us,Personal history of malignant neoplasm of stomach
+767,Louis Rose,lrosela@topsy.com,"Injury of facial nerve, unspecified side"
+768,Kathleen Moreno,kmorenolb@jiathis.com,"Burn of first degree of multiple sites of left shoulder and upper limb, except wrist and hand, initial encounter"
+769,Paul Jacobs,pjacobslc@w3.org,"Corrosion of second degree of multiple sites of head, face, and neck, sequela"
+770,Roy West,rwestld@about.me,"Insect bite (nonvenomous) of unspecified external genital organs, male, subsequent encounter"
+771,Martin James,mjamesle@joomla.org,"Assault by smoke, fire and flames, sequela"
+772,Robin Miller,rmillerlf@t-online.de,"Other superficial bite of hand of left hand, subsequent encounter"
+773,Janet Coleman,jcolemanlg@clickbank.net,Unstable burst fracture of first lumbar vertebra
+774,Michelle Gardner,mgardnerlh@nbcnews.com,"Unspecified fracture of shaft of left fibula, subsequent encounter for closed fracture with malunion"
+775,Christina Cruz,ccruzli@theguardian.com,"Postimmunization arthropathy, unspecified site"
+776,Kenneth Robertson,krobertsonlj@dailymotion.com,Other enterovirus as the cause of diseases classified elsewhere
+777,Katherine Wagner,kwagnerlk@nasa.gov,"2-part displaced fracture of surgical neck of left humerus, initial encounter for open fracture"
+778,Clarence Spencer,cspencerll@liveinternet.ru,"Complete traumatic amputation of unspecified breast, sequela"
+779,Denise Moreno,dmorenolm@ibm.com,"Puncture wound with foreign body of unspecified front wall of thorax with penetration into thoracic cavity, initial encounter"
+780,Peter George,pgeorgeln@jigsy.com,"Laceration of unspecified muscle, fascia and tendon at shoulder and upper arm level, right arm, sequela"
+781,Gerald Lane,glanelo@chicagotribune.com,"Toxic effect of cobra venom, intentional self-harm, initial encounter"
+782,Teresa Franklin,tfranklinlp@blog.com,"Brown-Sequard syndrome at unspecified level of thoracic spinal cord, initial encounter"
+783,Amy Cunningham,acunninghamlq@joomla.org,"Subluxation of distal interphalangeal joint of left ring finger, initial encounter"
+784,Deborah Dean,ddeanlr@bing.com,"Other specified injury of unspecified muscle and tendon at ankle and foot level, right foot, sequela"
+785,Susan Fuller,sfullerls@state.tx.us,"Displaced oblique fracture of shaft of unspecified tibia, subsequent encounter for closed fracture with routine healing"
+786,Alan Marshall,amarshalllt@imdb.com,"Displaced longitudinal fracture of unspecified patella, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+787,Nicholas Gonzales,ngonzaleslu@berkeley.edu,"Explosion of mine placed during war operations but exploding after cessation of hostilities, civilian, sequela"
+788,Eric Watson,ewatsonlv@lycos.com,"Superficial foreign body of scrotum and testes, sequela"
+789,Frances Daniels,fdanielslw@bravesites.com,"Laceration of bronchus, unspecified, initial encounter"
+790,John Edwards,jedwardslx@dell.com,"Intervertebral disc disorders with radiculopathy, lumbosacral region"
+791,Carlos Gordon,cgordonly@omniture.com,Atherosclerosis of native arteries of extremities with gangrene
+792,Lawrence Howell,lhowelllz@g.co,"Breakdown (mechanical) of insulin pump, subsequent encounter"
+793,Ronald Matthews,rmatthewsm0@live.com,"Terrorism involving firearms, public safety official injured, sequela"
+794,Virginia Hart,vhartm1@weebly.com,"Supervision of elderly multigravida, unspecified trimester"
+795,Paula James,pjamesm2@ocn.ne.jp,Traumatic cataract
+796,Brenda Gonzalez,bgonzalezm3@senate.gov,"Other specified abdominal hernia with obstruction, without gangrene"
+797,Denise Gonzales,dgonzalesm4@csmonitor.com,"Other fracture of lower end of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+798,Randy Evans,revansm5@europa.eu,"Displaced spiral fracture of shaft of humerus, unspecified arm, subsequent encounter for fracture with malunion"
+799,Nicholas Oliver,noliverm6@usatoday.com,"Nondisplaced fracture of fourth metatarsal bone, unspecified foot, subsequent encounter for fracture with nonunion"
+800,Kathryn Carr,kcarrm7@shareasale.com,"Hereditary nephropathy, not elsewhere classified with diffuse mesangiocapillary glomerulonephritis"
+801,Rose Crawford,rcrawfordm8@diigo.com,Cellulitis of other sites
+802,Anne Warren,awarrenm9@aol.com,"Subluxation of C6/C7 cervical vertebrae, subsequent encounter"
+803,James Knight,jknightma@mtv.com,"Motorcycle driver injured in collision with pedestrian or animal in nontraffic accident, sequela"
+804,Steve Hawkins,shawkinsmb@etsy.com,"Horseshoe tear of retina without detachment, left eye"
+805,Karen Butler,kbutlermc@list-manage.com,Schizoaffective disorders
+806,Gloria Knight,gknightmd@cnbc.com,Corrosion of third degree of left wrist
+807,Carol Morrison,cmorrisonme@moonfruit.com,"Occupant of railway train or railway vehicle injured in unspecified railway accident, initial encounter"
+808,Catherine Castillo,ccastillomf@typepad.com,Encounter for initial prescription of contraceptives
+809,Jonathan Freeman,jfreemanmg@stanford.edu,"Torus fracture of lower end of left tibia, subsequent encounter for fracture with routine healing"
+810,Virginia Coleman,vcolemanmh@ameblo.jp,"Poisoning by anticoagulant antagonists, vitamin K and other coagulants, intentional self-harm, subsequent encounter"
+811,Jerry Williams,jwilliamsmi@ihg.com,Bitten by dog
+812,Roy Wood,rwoodmj@seesaa.net,"Sprain of tarsometatarsal ligament of unspecified foot, sequela"
+813,Philip Walker,pwalkermk@cafepress.com,"Blister (nonthermal) of unspecified ear, sequela"
+814,Justin Jones,jjonesml@clickbank.net,"War operations involving fragments from munitions, civilian"
+815,Stephanie Baker,sbakermm@flavors.me,"Type 2 fracture of sacrum, subsequent encounter for fracture with routine healing"
+816,Norma Jenkins,njenkinsmn@parallels.com,Nondisplaced fracture of lesser tuberosity of right humerus
+817,Betty Hall,bhallmo@twitter.com,"Military operations involving other destruction of aircraft, civilian, sequela"
+818,Sarah Stone,sstonemp@virginia.edu,"Crushing injury of penis, initial encounter"
+819,Evelyn Welch,ewelchmq@biblegateway.com,"Maternal care for other rhesus isoimmunization, first trimester, fetus 1"
+820,Tammy George,tgeorgemr@purevolume.com,"Other injury of intrinsic muscle, fascia and tendon of right index finger at wrist and hand level, initial encounter"
+821,Sara Greene,sgreenems@usatoday.com,"Other interstitial and deep keratitis, bilateral"
+822,Thomas Burke,tburkemt@so-net.ne.jp,"Puncture wound of abdominal wall with foreign body, unspecified quadrant without penetration into peritoneal cavity, subsequent encounter"
+823,Jerry Gonzalez,jgonzalezmu@sogou.com,"Unspecified occupant of pick-up truck or van injured in noncollision transport accident in nontraffic accident, subsequent encounter"
+824,Joseph Gonzalez,jgonzalezmv@mit.edu,"Person on outside of pick-up truck or van injured in collision with pedal cycle in nontraffic accident, initial encounter"
+825,Frank Mcdonald,fmcdonaldmw@miitbeian.gov.cn,"Poisoning by penicillins, intentional self-harm, subsequent encounter"
+826,Joyce Clark,jclarkmx@seattletimes.com,"Fracture of unspecified part of neck of unspecified femur, subsequent encounter for open fracture type I or II with nonunion"
+827,Roy Wagner,rwagnermy@quantcast.com,"Poisoning by antiviral drugs, intentional self-harm, sequela"
+828,David Stephens,dstephensmz@psu.edu,"Displaced comminuted fracture of shaft of ulna, left arm, initial encounter for open fracture type I or II"
+829,Juan Hicks,jhicksn0@wordpress.org,Underimmunization status
+830,Harold Morris,hmorrisn1@seattletimes.com,"Hit or struck by falling object due to accident to sailboat, subsequent encounter"
+831,Jerry Gutierrez,jgutierrezn2@examiner.com,"Labor and delivery complicated by prolapse of cord, not applicable or unspecified"
+832,Chris Shaw,cshawn3@imgur.com,"Other ossification of muscle, lower leg"
+833,John Mills,jmillsn4@chicagotribune.com,"Supraglottitis, unspecified, without obstruction"
+834,Wanda Garcia,wgarcian5@hhs.gov,"Toxic effect of beryllium and its compounds, assault"
+835,Barbara Porter,bportern6@tripadvisor.com,"Corrosion of third degree of right hand, unspecified site, sequela"
+836,Jason Owens,jowensn7@google.co.jp,"Displaced fracture of medial condyle of right femur, subsequent encounter for open fracture type I or II with malunion"
+837,Lisa Powell,lpowelln8@wikia.com,"Other myeloid leukemia, in relapse"
+838,Louis Warren,lwarrenn9@shutterfly.com,"Infection and inflammatory reaction due to indwelling ureteral stent, sequela"
+839,Samuel Meyer,smeyerna@scribd.com,"Other secondary osteonecrosis, right femur"
+840,Julie Hansen,jhansennb@nytimes.com,Other and unspecified ventral hernia with gangrene
+841,Bonnie Bowman,bbowmannc@purevolume.com,"Nondisplaced articular fracture of head of right femur, subsequent encounter for open fracture type I or II with malunion"
+842,Doris Arnold,darnoldnd@netlog.com,"Burn of second degree of left knee, initial encounter"
+843,Dorothy Black,dblackne@lycos.com,Malignant neoplasm of lower limb
+844,Gary Adams,gadamsnf@people.com.cn,"Calculus of gallbladder and bile duct with cholecystitis, unspecified, without obstruction"
+845,Mary Morgan,mmorganng@creativecommons.org,"Corrosion of first degree of unspecified site of unspecified lower limb, except ankle and foot, subsequent encounter"
+846,Justin Martinez,jmartineznh@buzzfeed.com,"Burn of third degree of right foot, sequela"
+847,Jack Austin,jaustinni@alibaba.com,"Unspecified occupant of heavy transport vehicle injured in collision with other nonmotor vehicle in nontraffic accident, sequela"
+848,Fred Hansen,fhansennj@ft.com,"Displaced fracture of shaft of fourth metacarpal bone, right hand, initial encounter for open fracture"
+849,Helen Arnold,harnoldnk@google.com.hk,"Injury of blood vessels of head, not elsewhere classified, initial encounter"
+850,Judith Boyd,jboydnl@answers.com,Unspecified dacryocystitis of bilateral lacrimal passages
+851,Ashley Armstrong,aarmstrongnm@opensource.org,Acute embolism and thrombosis of right internal jugular vein
+852,Patricia Montgomery,pmontgomerynn@wikia.com,Dislocation of distal interphalangeal joint of finger
+853,Diane Garza,dgarzano@columbia.edu,Personal history of thrombophlebitis
+854,Paul Ortiz,portiznp@reverbnation.com,"Incomplete rotator cuff tear or rupture of right shoulder, not specified as traumatic"
+855,Larry Fox,lfoxnq@clickbank.net,"Superficial frostbite of right toe(s), sequela"
+856,Paul Garza,pgarzanr@aboutads.info,"Other fracture of lower end of left femur, subsequent encounter for open fracture type I or II with delayed healing"
+857,Norma Rivera,nriverans@irs.gov,Rheumatoid heart disease with rheumatoid arthritis of unspecified elbow
+858,Frances Montgomery,fmontgomerynt@about.com,"Rheumatoid arthritis without rheumatoid factor, hand"
+859,Irene Patterson,ipattersonnu@go.com,"Underdosing of mixed antiepileptics, subsequent encounter"
+860,Shawn Diaz,sdiaznv@house.gov,Other specified injury of deep palmar arch
+861,Janet Gilbert,jgilbertnw@slideshare.net,Displaced fracture of proximal phalanx of right middle finger
+862,Jimmy Foster,jfosternx@washingtonpost.com,"Breakdown (mechanical) of electronic bone stimulator, sequela"
+863,Adam Hawkins,ahawkinsny@liveinternet.ru,"Toxic effect of venom of other reptiles, undetermined, initial encounter"
+864,Robin Schmidt,rschmidtnz@about.com,Cutaneous chromomycosis
+865,Harold Peterson,hpetersono0@slideshare.net,"Pedal cycle passenger injured in collision with other nonmotor vehicle in traffic accident, initial encounter"
+866,Sharon Hart,sharto1@java.com,"Other fracture of upper end of unspecified tibia, subsequent encounter for closed fracture with delayed healing"
+867,Arthur Barnes,abarneso2@dot.gov,"Nondisplaced fracture of middle third of navicular [scaphoid] bone of left wrist, sequela"
+868,Terry Morris,tmorriso3@huffingtonpost.com,Unspecified open wound of right cheek and temporomandibular area
+869,Roger Diaz,rdiazo4@xing.com,"Major laceration of heart with hemopericardium, subsequent encounter"
+870,George Murphy,gmurphyo5@dropbox.com,Open-angle glaucoma
+871,Justin Nichols,jnicholso6@about.com,"Nondisplaced fracture of proximal phalanx of left middle finger, initial encounter for closed fracture"
+872,Martin Williamson,mwilliamsono7@ucla.edu,"Osteolysis, lower leg"
+873,Diane Cunningham,dcunninghamo8@ucoz.ru,"Contact with electric knife, initial encounter"
+874,Tina Bailey,tbaileyo9@prweb.com,"Laceration of inferior mesenteric vein, subsequent encounter"
+875,Brenda Rivera,briveraoa@ed.gov,"Acute rheumatic heart disease, unspecified"
+876,Brian Sanchez,bsanchezob@loc.gov,"Laceration with foreign body of other finger with damage to nail, initial encounter"
+877,Terry Mills,tmillsoc@bbb.org,"Nondisplaced comminuted fracture of left patella, sequela"
+878,Sean Myers,smyersod@dyndns.org,"Laceration of muscle and tendon of long flexor muscle of toe at ankle and foot level, right foot, subsequent encounter"
+879,George Baker,gbakeroe@vk.com,"Other physeal fracture of lower end of unspecified tibia, subsequent encounter for fracture with routine healing"
+880,Jesse Hamilton,jhamiltonof@mit.edu,Disorders of diaphragm
+881,Brandon Gilbert,bgilbertog@nhs.uk,Encounter for adequacy testing for hemodialysis
+882,Annie Reyes,areyesoh@bigcartel.com,"Contact with agricultural transport vehicle in stationary use, sequela"
+883,Rebecca Nichols,rnicholsoi@a8.net,Urinary tract infection following failed attempted termination of pregnancy
+884,Kathy Richardson,krichardsonoj@yelp.com,Late congenital syphilitic chorioretinitis
+885,Raymond Mcdonald,rmcdonaldok@dailymotion.com,"Person boarding or alighting a pick-up truck or van injured in collision with car, pick-up truck or van, subsequent encounter"
+886,Rose Alexander,ralexanderol@jimdo.com,"Accidental malfunction of paintball gun, sequela"
+887,Louise Rivera,lriveraom@dailymotion.com,"Toxic effect of ingested mushrooms, undetermined, initial encounter"
+888,Ronald Holmes,rholmeson@washington.edu,Acquired absence of upper limb below elbow
+889,Sandra Garza,sgarzaoo@fotki.com,"Unspecified sprain of right little finger, initial encounter"
+890,Doris Phillips,dphillipsop@eepurl.com,"Maternal care for transverse and oblique lie, fetus 3"
+891,Craig Peterson,cpetersonoq@histats.com,Other specified congenital malformations of eye
+892,Antonio Palmer,apalmeror@homestead.com,"Laceration of other part of colon, subsequent encounter"
+893,Frank Taylor,ftayloros@posterous.com,Corrosions involving 80-89% of body surface with 80-89% third degree corrosion
+894,Mary Day,mdayot@github.com,"Displaced oblique fracture of shaft of unspecified femur, initial encounter for closed fracture"
+895,Roy Greene,rgreeneou@gravatar.com,"Intentional self-harm by drowning and submersion in natural water, sequela"
+896,Gary Diaz,gdiazov@163.com,Toxic effects of benzene
+897,Craig Richardson,crichardsonow@discuz.net,"Immersion hand, unspecified hand, initial encounter"
+898,Janice Thomas,jthomasox@msn.com,"Other injury due to other accident to water-skis, sequela"
+899,Mary Cooper,mcooperoy@drupal.org,Nondisplaced fracture of proximal phalanx of right thumb
+900,Linda Miller,lmilleroz@drupal.org,"Laceration of diaphragm, subsequent encounter"
+901,Annie Fisher,afisherp0@sbwire.com,Physical abuse complicating childbirth
+902,Christina Hall,challp1@domainmarket.com,"Multiple fractures of pelvis with unstable disruption of pelvic ring, sequela"
+903,Juan Banks,jbanksp2@last.fm,Acute megakaryoblastic leukemia
+904,Ruby James,rjamesp3@omniture.com,"Wedge compression fracture of T9-T10 vertebra, subsequent encounter for fracture with routine healing"
+905,Andrew Reed,areedp4@businessweek.com,"Subluxation of metacarpal (bone), proximal end of unspecified hand, initial encounter"
+906,Howard Reynolds,hreynoldsp5@java.com,"Adverse effect of antidiarrheal drugs, subsequent encounter"
+907,Ernest Allen,eallenp6@chicagotribune.com,"Superficial foreign body of left upper arm, sequela"
+908,Scott Brooks,sbrooksp7@sfgate.com,Acquired deformity of pelvis
+909,James Nguyen,jnguyenp8@skyrock.com,"Other forms of scoliosis, site unspecified"
+910,Debra Edwards,dedwardsp9@yelp.com,"Other specific joint derangements of right elbow, not elsewhere classified"
+911,John Fowler,jfowlerpa@goo.gl,Dislocation of interphalangeal joint of unspecified great toe
+912,Craig Black,cblackpb@chicagotribune.com,"Torus fracture of lower end of unspecified femur, subsequent encounter for fracture with nonunion"
+913,Jessica Mendoza,jmendozapc@tmall.com,Subacute combined degeneration of spinal cord in diseases classified elsewhere
+914,Douglas Reed,dreedpd@photobucket.com,"Fracture of unspecified part of left clavicle, initial encounter for closed fracture"
+915,Joyce Stanley,jstanleype@mediafire.com,Retained (old) foreign body following penetrating wound of left orbit
+916,Robin Arnold,rarnoldpf@sbwire.com,"Nondisplaced fracture of greater trochanter of unspecified femur, subsequent encounter for closed fracture with malunion"
+917,Steve Arnold,sarnoldpg@baidu.com,"Nondisplaced oblique fracture of shaft of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+918,Roger Fowler,rfowlerph@exblog.jp,Contact with unspecified agricultural machinery
+919,Charles Patterson,cpattersonpi@chicagotribune.com,"Nondisplaced fracture of neck of first metacarpal bone, right hand, subsequent encounter for fracture with routine healing"
+920,Norma Hart,nhartpj@bloomberg.com,"Barton's fracture of left radius, sequela"
+921,Jack Cooper,jcooperpk@buzzfeed.com,Subluxation and dislocation of T10/T11-T11/T12 thoracic vertebra
+922,Fred Castillo,fcastillopl@bbc.co.uk,Cellulitis of external ear
+923,Cheryl Peters,cpeterspm@rediff.com,"Pathological fracture in neoplastic disease, left hand, subsequent encounter for fracture with routine healing"
+924,Lisa Howard,lhowardpn@xing.com,"Displaced fracture of medial condyle of right tibia, initial encounter for closed fracture"
+925,Daniel Gray,dgraypo@studiopress.com,Trade school as the place of occurrence of the external cause
+926,Joseph Franklin,jfranklinpp@wufoo.com,Drowning and submersion due to falling or jumping from crushed unspecified watercraft
+927,Brian Pierce,bpiercepq@storify.com,"External constriction of left wrist, sequela"
+928,Donna Carpenter,dcarpenterpr@google.ru,"Nondisplaced transverse fracture of shaft of right tibia, sequela"
+929,Samuel Turner,sturnerps@php.net,"Poisoning by emollients, demulcents and protectants, accidental (unintentional)"
+930,Kathleen Carr,kcarrpt@ning.com,"Other fracture of unspecified lower leg, subsequent encounter for open fracture type I or II with nonunion"
+931,Lori Riley,lrileypu@domainmarket.com,"Displaced osteochondral fracture of unspecified patella, subsequent encounter for closed fracture with malunion"
+932,Rose Torres,rtorrespv@cam.ac.uk,"Unspecified dislocation of left shoulder joint, sequela"
+933,Chris Howard,chowardpw@wufoo.com,Diverticulosis of both small and large intestine without perforation or abscess with bleeding
+934,Judy Fox,jfoxpx@free.fr,Cutaneous abscess of neck
+935,Kathy Payne,kpaynepy@liveinternet.ru,Secondary malignant neoplasm of brain and cerebral meninges
+936,Amy White,awhitepz@usgs.gov,"Nondisplaced fracture of neck of second metacarpal bone, left hand, subsequent encounter for fracture with routine healing"
+937,Rose Lane,rlaneq0@msu.edu,Transverse fracture of shaft of fibula
+938,Sandra Martin,smartinq1@answers.com,"Nondisplaced longitudinal fracture of left patella, subsequent encounter for open fracture type I or II with malunion"
+939,Ernest Watson,ewatsonq2@technorati.com,Capsular glaucoma with pseudoexfoliation of lens
+940,Keith Hansen,khansenq3@examiner.com,Other superficial bite of left ear
+941,John George,jgeorgeq4@weather.com,"Acute myeloblastic leukemia, not having achieved remission"
+942,Willie Wagner,wwagnerq5@foxnews.com,"Greenstick fracture of shaft of humerus, unspecified arm, subsequent encounter for fracture with nonunion"
+943,Joe Harvey,jharveyq6@themeforest.net,"Injury of cutaneous sensory nerve at hip and thigh level, unspecified leg, initial encounter"
+944,Juan Barnes,jbarnesq7@ca.gov,"Nondisplaced longitudinal fracture of unspecified patella, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+945,Jeremy Hudson,jhudsonq8@intel.com,"Wear of articular bearing surface of internal prosthetic right knee joint, subsequent encounter"
+946,Harry Edwards,hedwardsq9@huffingtonpost.com,Aphasia following unspecified cerebrovascular disease
+947,Lori Carpenter,lcarpenterqa@amazonaws.com,"Partial traumatic metacarpophalangeal amputation of right index finger, sequela"
+948,Steven Roberts,srobertsqb@ask.com,"Nondisplaced supracondylar fracture with intracondylar extension of lower end of left femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+949,Martha Cooper,mcooperqc@geocities.com,"Unspecified fracture of upper end of unspecified radius, sequela"
+950,Sarah Morales,smoralesqd@dyndns.org,"Strain of unspecified muscle, fascia and tendon at shoulder and upper arm level, right arm, sequela"
+951,James Burns,jburnsqe@wikispaces.com,ABO incompatibility with acute hemolytic transfusion reaction
+952,John Little,jlittleqf@fema.gov,"Sex counseling, unspecified"
+953,Paula Reed,preedqg@sourceforge.net,"Unspecified complication following infusion, transfusion and therapeutic injection"
+954,Roy Wilson,rwilsonqh@guardian.co.uk,"Gout due to renal impairment, right elbow"
+955,Gary Roberts,grobertsqi@weibo.com,Fracture of middle third of navicular [scaphoid] bone of wrist
+956,Mary Morrison,mmorrisonqj@washingtonpost.com,"Contact blepharoconjunctivitis, left eye"
+957,Helen Shaw,hshawqk@pen.io,"Scleromalacia perforans, unspecified eye"
+958,Sara Graham,sgrahamql@zimbio.com,"Nondisplaced fracture of intermediate cuneiform of left foot, subsequent encounter for fracture with malunion"
+959,Ernest Stevens,estevensqm@adobe.com,"Contracture of muscle, right forearm"
+960,Albert Rodriguez,arodriguezqn@ft.com,"Displaced transverse fracture of left patella, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+961,Jose Henry,jhenryqo@deviantart.com,"Unspecified disorder of synovium and tendon, unspecified upper arm"
+962,Charles Harrison,charrisonqp@chicagotribune.com,"Traumatic rupture of other ligament of unspecified finger at metacarpophalangeal and interphalangeal joint, subsequent encounter"
+963,Evelyn Nichols,enicholsqq@spiegel.de,"Exudative retinopathy, left eye"
+964,Deborah Watson,dwatsonqr@digg.com,"Poisoning by unspecified psychotropic drug, assault, sequela"
+965,Amanda Wright,awrightqs@yellowbook.com,Other symptoms and signs involving general sensations and perceptions
+966,Ronald Patterson,rpattersonqt@usda.gov,"Poisoning by, adverse effect of and underdosing of emollients, demulcents and protectants"
+967,Jessica Kennedy,jkennedyqu@tamu.edu,"Emphysema (subcutaneous) resulting from a procedure, subsequent encounter"
+968,Martha Ward,mwardqv@yolasite.com,"Nondisplaced comminuted fracture of shaft of humerus, unspecified arm, subsequent encounter for fracture with nonunion"
+969,Ann Turner,aturnerqw@symantec.com,"Sudden idiopathic hearing loss, right ear"
+970,Joyce Myers,jmyersqx@wired.com,"Poisoning by, adverse effect of and underdosing of unspecified drugs, medicaments and biological substances"
+971,Marilyn Butler,mbutlerqy@sourceforge.net,Unspecified contusion of spleen
+972,Rebecca Johnston,rjohnstonqz@google.com.au,"Juvenile osteochondrosis of tarsus, unspecified ankle"
+973,Clarence Ross,crossr0@google.nl,Toxic effect of fluorine gas and hydrogen fluoride
+974,Nicholas Watson,nwatsonr1@hhs.gov,"Subluxation of proximal interphalangeal joint of unspecified finger, subsequent encounter"
+975,Mark Cunningham,mcunninghamr2@usatoday.com,Distal interphalangeal psoriatic arthropathy
+976,Juan Kennedy,jkennedyr3@bravesites.com,"Bent bone of unspecified ulna, initial encounter for closed fracture"
+977,Andrew Simpson,asimpsonr4@csmonitor.com,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication, left leg"
+978,Thomas Rogers,trogersr5@gov.uk,"Arthropathy following intestinal bypass, left elbow"
+979,Martha Franklin,mfranklinr6@timesonline.co.uk,Other combined immunodeficiencies
+980,Keith Smith,ksmithr7@ed.gov,"Dislocation of proximal interphalangeal joint of left middle finger, subsequent encounter"
+981,Theresa Washington,twashingtonr8@marketwatch.com,Hit or struck by falling object due to accident to fishing boat
+982,Jonathan Lawrence,jlawrencer9@slideshare.net,"Surgical operation and other surgical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+983,Justin Franklin,jfranklinra@geocities.com,"Other secondary chronic gout, unspecified wrist, without tophus (tophi)"
+984,Billy Barnes,bbarnesrb@ow.ly,"Explosion of bomb placed during war operations but exploding after cessation of hostilities, civilian, sequela"
+985,Gerald Ramos,gramosrc@zdnet.com,"Major laceration of branches of celiac and mesenteric artery, subsequent encounter"
+986,Wayne Duncan,wduncanrd@newsvine.com,"Sextuplets, some liveborn"
+987,Ryan Kelley,rkelleyre@nhs.uk,"Contusion of left elbow, subsequent encounter"
+988,Sarah Brown,sbrownrf@squidoo.com,Other sexual disorders
+989,Brandon Jackson,bjacksonrg@g.co,"Fall down embankment (hill), subsequent encounter"
+990,Samuel Phillips,sphillipsrh@dmoz.org,"Other burn on board other powered watercraft, sequela"
+991,Rebecca Hernandez,rhernandezri@jimdo.com,Conjunctival granuloma
+992,Bonnie Hall,bhallrj@digg.com,Person on outside of car injured in collision with pedestrian or animal in nontraffic accident
+993,Earl Olson,eolsonrk@europa.eu,"Other spondylosis with radiculopathy, cervicothoracic region"
+994,Johnny Austin,jaustinrl@woothemes.com,"Stress fracture, other site, subsequent encounter for fracture with nonunion"
+995,Fred Romero,fromerorm@mapy.cz,"Other fracture of upper end of unspecified ulna, initial encounter for open fracture type I or II"
+996,Richard Daniels,rdanielsrn@gravatar.com,"Superficial frostbite of left hip and thigh, subsequent encounter"
+997,Victor Lopez,vlopezro@hp.com,Unspecified occupant of three-wheeled motor vehicle injured in collision with other and unspecified motor vehicles in traffic accident
+998,Ruth Sanders,rsandersrp@google.co.uk,"Other fracture of lower end of unspecified tibia, initial encounter for closed fracture"
+999,Karen Alvarez,kalvarezrq@intel.com,Glider (nonpowered) fire injuring occupant
+1000,Douglas Rodriguez,drodriguezrr@webeden.co.uk,Driver of heavy transport vehicle injured in collision with fixed or stationary object in nontraffic accident
