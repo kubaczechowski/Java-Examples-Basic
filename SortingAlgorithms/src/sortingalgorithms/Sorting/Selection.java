@@ -9,16 +9,19 @@ package sortingalgorithms.Sorting;
  *
  * @author Jeppe
  */
-public class Selection implements SortStrategy {
+public class Selection extends SortStrategy {
 
-    @Override
-    public Integer[] sort(Integer[] input) {
+    public Selection(boolean isDescending)
+    {
+        super(isDescending);
+    }
+    public Comparable[] sort(Comparable[] input) {
         int j = 0;
-        int tmp = 0;
+        Comparable tmp;
         for (int i = 0; i < input.length; i++) {
             j = i;
             for (int k = i; k < input.length; k++) {
-                if (input[j] > input[k]) {
+                if (compareValues(input[j],input[k])) {
                     j = k;
                 }
             }

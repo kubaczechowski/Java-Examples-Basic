@@ -9,10 +9,15 @@ package sortingalgorithms.Sorting;
  *
  * @author Jeppe
  */
-public class Quick implements SortStrategy {
+public class Quick extends SortStrategy {
+
+    public Quick(boolean isDescending)
+    {
+        super(isDescending);
+    }
     @Override
-    public Integer[] sort(Integer[] input) {
-        int pivot = 0;
+    public Comparable[] sort(Comparable[] input) {
+        Comparable pivot;
         int middle = input.length / 2;
         int i = 0;
         int j = 0;
@@ -22,13 +27,13 @@ public class Quick implements SortStrategy {
         } 
         else 
         {
-            Integer[] leftArray = new Integer[input.length];
-            Integer[] rightArray = new Integer[input.length];
-            Integer[] sorted = new Integer[input.length];
+            Comparable[] leftArray = new Integer[input.length];
+            Comparable[] rightArray = new Integer[input.length];
+            Comparable[] sorted = new Integer[input.length];
             pivot = input[middle];
             for (i = 0; i < input.length; i++) {
                 if (i != middle) {
-                    if (input[i] < pivot) {
+                    if (compareValues(pivot,input[i])) {
                         leftArray[j] = input[i];
                         j++;
                     } else {
@@ -37,8 +42,8 @@ public class Quick implements SortStrategy {
                     }
                 }
             }
-            Integer[] sortedLeft = new Integer[j];
-            Integer[] sortedRight = new Integer[k];
+            Comparable[] sortedLeft = new Integer[j];
+            Comparable[] sortedRight = new Integer[k];
             System.arraycopy(leftArray, 0, sortedLeft, 0, j);
             System.arraycopy(rightArray, 0, sortedRight, 0, k);
             sortedLeft = sort(sortedLeft);

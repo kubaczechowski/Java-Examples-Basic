@@ -5,49 +5,56 @@
  */
 package sortingalgorithms.Sorting;
 
+import java.util.List;
+
 /**
  *
  * @author Jeppe
  */
-public class Merge implements SortStrategy {
+public class Merge extends SortStrategy {
+
+    public Merge(boolean isDescending)
+    {
+        super(isDescending);
+    }
 
     @Override
-    public Integer[] sort(Integer[] input) {
+    public Comparable[] sort(Comparable[] input) {
         if (input.length <= 1) {
             return input;
         } else {
             Integer middle = input.length / 2;
             int rem = input.length - middle;
-            Integer[] L = new Integer[middle];
-            Integer[] R = new Integer[rem];
-            System.arraycopy(input, 0, L, 0, middle);
-            System.arraycopy(input, middle, R, 0, rem);
-            L = this.sort(L);
-            R = this.sort(R);
-            return merge(L, R);
+            Comparable[] leftArray = new Integer[middle];
+            Comparable[] rightArray = new Integer[rem];
+            System.arraycopy(input, 0, leftArray, 0, middle);
+            System.arraycopy(input, middle, rightArray, 0, rem);
+            leftArray = this.sort(leftArray);
+            rightArray = this.sort(rightArray);
+            return merge(leftArray, rightArray);
         }
     }
 
-    public Integer[] merge(Integer[] L, Integer[] R) {
-        int lenL = L.length;
-        int lenR = R.length;
-        Integer[] merged = new Integer[lenL + lenR];
+    public Comparable[] merge(Comparable[] leftArray, Comparable[] rightArray) {
+        int lenL = leftArray.length;
+        int lenR = rightArray.length;
+        Comparable[] merged = new Integer[lenL + lenR];
         int i = 0;
         int j = 0;
         while (i < lenL || j < lenR) {
             if (i < lenL & j < lenR) {
-                if (L[i] <= R[j]) {
-                    merged[i + j] = L[i];
+                if (super.compareValues(rightArray[j],leftArray[i])) {
+                    merged[i + j] = leftArray[i];
                     i++;
                 } else {
-                    merged[i + j] = R[j];
+                    merged[i + j] = rightArray[j];
                     j++;
                 }
             } else if (i < lenL) {
-                merged[i + j] = L[i];
+                merged[i + j] = leftArray[i];
                 i++;
             } else if (j < lenR) {
-                merged[i + j] = R[j];
+                merged[i + j] = rightArray[j];
                 j++;
             }
         }

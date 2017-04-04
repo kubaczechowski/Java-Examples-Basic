@@ -7,7 +7,9 @@ package sortingalgorithms;
 
 import sortingalgorithms.Sorting.SortStrategy;
 import java.net.URL;
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 import java.util.Random;
 import java.util.ResourceBundle;
 import javafx.collections.FXCollections;
@@ -32,7 +34,7 @@ public class FXMLDocumentController implements Initializable {
     @FXML
     private ComboBox<SortStrategy> comboAlgos;
     @FXML
-    private ListView<Integer> lstSorted;
+    private ListView<Comparable> lstSorted;
     
     Sorter sorter;
     
@@ -40,7 +42,6 @@ public class FXMLDocumentController implements Initializable {
     private void handleButtonAction(ActionEvent event) {
         Integer[] randNumbers = lstUnsorted.getItems().toArray(new Integer[0]);
         sorter.setStrategy(comboAlgos.getValue());
-        
         lstSorted.setItems(FXCollections.observableArrayList(sorter.sort(randNumbers)));
     }
     
@@ -57,11 +58,11 @@ public class FXMLDocumentController implements Initializable {
     
     @Override
     public void initialize(URL url, ResourceBundle rb) {
-        comboAlgos.getItems().add(new Bubble());
-        comboAlgos.getItems().add(new Selection());
-        comboAlgos.getItems().add(new Insertion());
-        comboAlgos.getItems().add(new Merge());
-        comboAlgos.getItems().add(new Quick());
+        comboAlgos.getItems().add(new Bubble(false));
+        comboAlgos.getItems().add(new Selection(false));
+        comboAlgos.getItems().add(new Insertion(false));
+        comboAlgos.getItems().add(new Merge(false));
+        comboAlgos.getItems().add(new Quick(false));
         comboAlgos.getSelectionModel().selectFirst();
         sorter = new Sorter(comboAlgos.getSelectionModel().getSelectedItem());
         this.createNewRandomList();
