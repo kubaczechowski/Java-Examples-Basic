@@ -7,7 +7,6 @@ package sortingalgorithms;
 
 import sortingalgorithms.Sorting.SortStrategy;
 import java.net.URL;
-import java.util.Arrays;
 import java.util.Random;
 import java.util.ResourceBundle;
 import javafx.collections.FXCollections;

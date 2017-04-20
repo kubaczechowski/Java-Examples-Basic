@@ -10,6 +10,7 @@ package sortingalgorithms.Sorting;
  * @author Jeppe
  */
 public class Quick implements SortStrategy {
+    
     @Override
     public Integer[] sort(Integer[] input) {
         int pivot = 0;
