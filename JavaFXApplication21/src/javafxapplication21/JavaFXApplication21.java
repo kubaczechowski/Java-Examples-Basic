@@ -24,10 +24,11 @@ public class JavaFXApplication21 extends Application {
         Button btn = new Button();
         btn.setText("Say 'Hello World'");
         btn.setOnAction(new EventHandler<ActionEvent>() {
-            
+            System.out.println("Hello World!");
             @Override
             public void handle(ActionEvent event) {
-                System.out.println("Hello World!");
+                
+                System.out.println("Hello World!!");
             }
         });
         
