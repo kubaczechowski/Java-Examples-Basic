@@ -9,15 +9,20 @@ package sortingalgorithms.Sorting;
  *
  * @author Jeppe
  */
-public class Insertion implements SortStrategy {
+public class Insertion extends SortStrategy {
+
+    public Insertion(boolean isDescending)
+    {
+        super(isDescending);
+    }
     @Override
-    public Integer[] sort(Integer[] input) {
-        int key=0;
+    public Comparable[] sort(Comparable[] input) {
+        Comparable key;
         int i = 0;
         for (int j = 1; j < input.length; j++) {
             key = input[j];
             i = j - 1;
-            while (i >= 0 && input[i] > key) {
+            while (i >= 0 && compareValues(input[i],key)) {
                 input[i + 1] = input[i];
                 i--;
                 input[i + 1] = key;

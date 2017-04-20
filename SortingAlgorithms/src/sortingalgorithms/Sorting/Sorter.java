@@ -5,6 +5,8 @@
  */
 package sortingalgorithms.Sorting;
 
+import java.util.List;
+
 /**
  *
  * @author Jeppe
@@ -20,7 +22,7 @@ public class Sorter {
         this.strategy = strategy;
     }
     
-    public Integer[] sort(Integer[] input)
+    public Comparable[] sort(Comparable[] input)
     {
         return strategy.sort(input);
     }
