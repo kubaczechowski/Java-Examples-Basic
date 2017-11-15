@@ -9,12 +9,17 @@ package sortingalgorithms.Sorting;
  *
  * @author Jeppe
  */
+<<<<<<< HEAD
+public class Quick implements SortStrategy {
+    
+=======
 public class Quick extends SortStrategy {
 
     public Quick(boolean isDescending)
     {
         super(isDescending);
     }
+>>>>>>> origin/master
     @Override
     public Comparable[] sort(Comparable[] input) {
         Comparable pivot;
