@@ -6,12 +6,10 @@
 package graphicaldepartmentwithpersistance.GUI.Controller;
 
 import graphicaldepartmentwithpersistance.BE.Department;
-import graphicaldepartmentwithpersistance.util.FileType;
-import graphicaldepartmentwithpersistance.BLL.DepartmentManager;
+import graphicaldepartmentwithpersistance.util.FileTypeFactory.FileType;
 import graphicaldepartmentwithpersistance.GUI.Model.DepartmentModel;
 import graphicaldepartmentwithpersistance.util.DepartmentException;
 import java.net.URL;
-import java.util.ArrayList;
 import java.util.ResourceBundle;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -31,8 +29,8 @@ import javafx.scene.control.cell.PropertyValueFactory;
  *
  * @author jeppjleemoritzled
  */
-public class MainController implements Initializable
-{
+public class MainController implements Initializable {
+
     @FXML
     private TableView<Department> tableDepartment;
     @FXML
@@ -45,29 +43,38 @@ public class MainController implements Initializable
     private TextField textName;
     @FXML
     private ComboBox<FileType> comboFileType;
-   
-    private final DepartmentManager manager = new DepartmentManager();
-    private final DepartmentModel model = new DepartmentModel();
-    
+
+    //private final DepartmentManager manager = new DepartmentManager();
+    private DepartmentModel model;
+
     @Override
-    public void initialize(URL url, ResourceBundle rb)
-    {
+    public void initialize(URL url, ResourceBundle rb) {
+        try {
+            model = new DepartmentModel();
+        }
+        catch (DepartmentException ex) {
+            showAndLogError(ex);
+        }
         columnName.setCellValueFactory(
                 new PropertyValueFactory("name"));
         columnId.setCellValueFactory(
                 new PropertyValueFactory("id"));
-        
+
         comboFileType.setItems(FXCollections.observableArrayList(FileType.values()));
         comboFileType.getSelectionModel().selectFirst();
-        
-        manager.setFileType(comboFileType.getSelectionModel().getSelectedItem());
-        
+
+        try {
+            model.setFileType(comboFileType.getSelectionModel().getSelectedItem());
+        }
+        catch (DepartmentException ex) {
+            showAndLogError(ex);
+        }
+
         tableDepartment.setItems(model.getDepartmentList());
-    }    
+    }
 
     @FXML
-    private void clickAdd(ActionEvent event)
-    {
+    private void clickAdd(ActionEvent event) {
         model.getDepartmentList().add(
                 new Department(Integer.parseInt(textId.getText()), textName.getText()));
         textId.clear();
@@ -75,48 +82,43 @@ public class MainController implements Initializable
     }
 
     @FXML
-    private void comboSelectFileType(ActionEvent event)
-    {
-        manager.setFileType(comboFileType.getSelectionModel().getSelectedItem());
+    private void comboSelectFileType(ActionEvent event) {
+        try {
+            model.setFileType(comboFileType.getSelectionModel().getSelectedItem());
+        }
+        catch (DepartmentException ex) {
+            showAndLogError(ex);
+        }
     }
 
     @FXML
-    private void clickLoad(ActionEvent event)
-    {
-        try
-        {
+    private void clickLoad(ActionEvent event) {
+        try {
             model.loadDepartments();
         }
-        catch (DepartmentException ex)
-        {
+        catch (DepartmentException ex) {
             showAndLogError(ex);
         }
     }
 
     @FXML
-    private void clickSave(ActionEvent event)
-    {
-        try
-        {
-            manager.addAll(new ArrayList(tableDepartment.getItems()));
+    private void clickSave(ActionEvent event) {
+        try {
+            model.addAll(tableDepartment.getItems());
         }
-        catch (DepartmentException ex)
-        {
+        catch (DepartmentException ex) {
             showAndLogError(ex);
         }
     }
-    
-    private static void showAndLogError(DepartmentException ex)
-    {
+
+    private static void showAndLogError(DepartmentException ex) {
         Logger.getLogger(MainController.class.getName()).log(Level.SEVERE, null, ex);
-        
-        Alert alert = new Alert(AlertType.ERROR, 
-                ex.getMessage() +
-                String.format("%n") + 
-                "See error log for technical details."
-                );
+
+        Alert alert = new Alert(AlertType.ERROR,
+                ex.getMessage()
+                + String.format("%n")
+                + "See error log for technical details."
+        );
         alert.showAndWait();
-        
-        
     }
 }

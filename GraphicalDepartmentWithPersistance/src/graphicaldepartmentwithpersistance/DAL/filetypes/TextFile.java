@@ -14,47 +14,40 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+
 /**
  *
  * @author jeppjleemoritzled
  */
-public class DepartmentPersistanceTextFile extends AbstractDepartmentPersistanceFile
-{
+public class TextFile extends AbstractFile {
 
-    public DepartmentPersistanceTextFile(String fileName)
-    {
+    public TextFile(String fileName) {
         super(fileName + ".txtdat");
     }
 
     @Override
-    public void addDepartment(Department d) throws IOException
-    {
+    public void addDepartment(Department d) throws IOException {
         try (BufferedWriter bw
                 = new BufferedWriter(
-                        new FileWriter(fileName, true)))
-        {
+                        new FileWriter(fileName, true))) {
             bw.append(d.getId() + "," + d.getName());
             bw.newLine();
         }
     }
 
     @Override
-    public void deleteById(int departmentId) throws IOException
-    {
+    public void deleteById(int departmentId) throws IOException {
         String newFileString = "";
         List<Department> depList = getAll();
         try (BufferedReader br
                 = new BufferedReader(
-                        new FileReader(fileName)))
-        {
+                        new FileReader(fileName))) {
             Scanner scanner = new Scanner(br);
-            while (scanner.hasNext())
-            {
+            while (scanner.hasNext()) {
                 String line = scanner.nextLine();
                 String[] fields = line.split(",");
                 int id = Integer.parseInt(fields[0].trim());
-                if (id != departmentId)
-                {
+                if (id != departmentId) {
                     newFileString += line;
                 }
             }
@@ -62,27 +55,22 @@ public class DepartmentPersistanceTextFile extends AbstractDepartmentPersistance
 
         try (BufferedWriter bw
                 = new BufferedWriter(
-                        new FileWriter(fileName)))
-        {
+                        new FileWriter(fileName))) {
             bw.write(newFileString);
         }
     }
 
     @Override
-    public Department getById(int departmentId) throws IOException
-    {
+    public Department getById(int departmentId) throws IOException {
         try (BufferedReader br
                 = new BufferedReader(
-                        new FileReader(fileName)))
-        {
+                        new FileReader(fileName))) {
             Scanner scanner = new Scanner(br);
-            while (scanner.hasNext())
-            {
+            while (scanner.hasNext()) {
                 String line = scanner.nextLine();
                 String[] fields = line.split(",");
                 int id = Integer.parseInt(fields[0].trim());
-                if (id == departmentId)
-                {
+                if (id == departmentId) {
                     return new Department(id, fields[1].trim());
                 }
             }
@@ -91,17 +79,14 @@ public class DepartmentPersistanceTextFile extends AbstractDepartmentPersistance
     }
 
     @Override
-    public List<Department> getAll() throws IOException
-    {
+    public List<Department> getAll() throws IOException {
         List<Department> depList = new ArrayList();
 
         try (BufferedReader br
                 = new BufferedReader(
-                        new FileReader(fileName)))
-        {
+                        new FileReader(fileName))) {
             Scanner scanner = new Scanner(br);
-            while (scanner.hasNext())
-            {
+            while (scanner.hasNext()) {
                 String line = scanner.nextLine();
                 String[] fields = line.split(",");
                 depList.add(
@@ -115,15 +100,12 @@ public class DepartmentPersistanceTextFile extends AbstractDepartmentPersistance
     }
 
     @Override
-    public void saveAll(List<Department> depts) throws IOException
-    {
+    public void saveAll(List<Department> depts) throws IOException {
         super.clearAll(); // deletes contents of file
         try (BufferedWriter bw
                 = new BufferedWriter(
-                        new FileWriter(fileName, true)))
-        {
-            for (Department dept : depts)
-            {
+                        new FileWriter(fileName, true))) {
+            for (Department dept : depts) {
 
                 bw.append(dept.getId() + "," + dept.getName());
                 bw.newLine();

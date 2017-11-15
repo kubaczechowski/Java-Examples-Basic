@@ -6,8 +6,8 @@
 package graphicaldepartmentwithpersistance.BLL;
 
 import graphicaldepartmentwithpersistance.BE.Department;
-import graphicaldepartmentwithpersistance.util.FileType;
 import graphicaldepartmentwithpersistance.DAL.DepartmentPersistanceManager;
+import graphicaldepartmentwithpersistance.util.FileTypeFactory.FileType;
 import graphicaldepartmentwithpersistance.util.DepartmentException;
 import java.io.IOException;
 import java.util.List;
@@ -16,92 +16,71 @@ import java.util.List;
  *
  * @author jeppe
  */
-public class DepartmentManager
-{
+public class DepartmentManager {
 
     private static final String FILE_NAME = "Departments";
     private final DepartmentPersistanceManager dpm;
 
-    public DepartmentManager()
-    {
+    public DepartmentManager() throws DepartmentException {
         dpm = new DepartmentPersistanceManager(FILE_NAME);
     }
 
-    public void setFileType(FileType type)
-    {
+    public void setFileType(FileType type) throws DepartmentException {
         dpm.setFileType(type);
     }
 
-    public void clearAll() throws DepartmentException
-    {
-        try
-        {
+    public void clearAll() throws DepartmentException {
+        try {
             dpm.clearAll();
         }
-        catch (IOException ioex)
-        {
+        catch (IOException ioex) {
             throw new DepartmentException("Cannot clear all departments", ioex);
         }
     }
 
-    public void addDepartment(Department d) throws DepartmentException
-    {
-        try
-        {
+    public void addDepartment(Department d) throws DepartmentException {
+        try {
             dpm.addDepartment(d);
         }
-        catch (IOException ioex)
-        {
+        catch (IOException ioex) {
             throw new DepartmentException("Cannot add department", ioex);
         }
     }
 
-    public void addAll(List<Department> depts) throws DepartmentException
-    {
-        try
-        {
+    public void addAll(List<Department> depts) throws DepartmentException {
+        try {
             dpm.addAll(depts);
         }
-        catch (IOException ioex)
-        {
+        catch (IOException ioex) {
             throw new DepartmentException("Cannot add all departments", ioex);
         }
     }
 
-    public List<Department> getAll() throws DepartmentException
-    {
-        try
-        {
+    public List<Department> getAll() throws DepartmentException {
+        try {
             return dpm.getAll();
         }
-        catch (IOException ioex)
-        {
+        catch (IOException ioex) {
             throw new DepartmentException("Cannot get all departments", ioex);
         }
     }
 
-    public Department getById(int departmentId) throws DepartmentException
-    {
-        try
-        {
+    public Department getById(int departmentId) throws DepartmentException {
+        try {
             return dpm.getById(departmentId);
         }
-        catch (IOException ioex)
-        {
-            throw new DepartmentException("Cannot department from id: " + departmentId, ioex);
+        catch (IOException ioex) {
+            throw new DepartmentException("Cannot get department from id: " + departmentId, ioex);
         }
     }
 
-    public void delete(Department d) throws DepartmentException
-    {
-        try
-        {
+    public void delete(Department d) throws DepartmentException {
+        try {
             dpm.deleteById(d.getId());
         }
-        catch (IOException ioex)
-        {
+        catch (IOException ioex) {
             throw new DepartmentException(
-                    "Cannot department"+ d.getName() + " with id: " + d.getId(), ioex);
+                    "Cannot department" + d.getName() + " with id: " + d.getId(), ioex);
         }
     }
 }

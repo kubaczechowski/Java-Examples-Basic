@@ -5,9 +5,12 @@
  */
 package graphicaldepartmentwithpersistance.DAL;
 
-import graphicaldepartmentwithpersistance.util.FileType;
+import graphicaldepartmentwithpersistance.util.FileTypeFactory;
 import graphicaldepartmentwithpersistance.DAL.filetypes.*;
 import graphicaldepartmentwithpersistance.BE.*;
+import graphicaldepartmentwithpersistance.util.FileTypeFactory.FileType;
+import static graphicaldepartmentwithpersistance.util.FileTypeFactory.FileType.*;
+import graphicaldepartmentwithpersistance.util.DepartmentException;
 import java.io.IOException;
 import java.util.List;
 
@@ -15,65 +18,46 @@ import java.util.List;
  *
  * @author jeppe
  */
-public final class DepartmentPersistanceManager
-{
-    private AbstractDepartmentPersistanceFile fileHandler;
+public final class DepartmentPersistanceManager {
+
+    private AbstractFile fileHandler;
     private String fileName;
-    
-    public void setFileType(FileType type)
-    {
-        switch(type)
-        {
-            case TEXTFILE:
-                fileHandler = new DepartmentPersistanceTextFile(fileName);
-                break;
-            case RANDOM_BINARY:
-                fileHandler = new DepartmentPersistanceRandomTextFile(fileName);
-                break;
-            case SERIALIZED:
-                fileHandler = new DepartmentPersistanceSerializedFile(fileName);
-                break;
-        }
+
+    public void setFileType(FileType type) throws DepartmentException {
+        fileHandler = FileTypeFactory.getInstance().create(
+                type, fileName);
     }
-    
-    public DepartmentPersistanceManager(String fileName)
-    {
-        this(fileName, FileType.SERIALIZED);
+
+    public DepartmentPersistanceManager(String fileName) throws DepartmentException {
+        this(fileName, SERIALIZED);
     }
-    
-    public DepartmentPersistanceManager(String fileName, FileType type)
-    {
+
+    public DepartmentPersistanceManager(String fileName, FileType type) throws DepartmentException {
         this.fileName = fileName;
         setFileType(type);
     }
 
-    public void addDepartment(Department d) throws IOException
-    {
+    public void addDepartment(Department d) throws IOException {
         fileHandler.addDepartment(d);
     }
 
-    public List<Department> getAll() throws IOException
-    {
+    public List<Department> getAll() throws IOException {
         return fileHandler.getAll();
     }
 
-    public Department getById(int departmentId) throws IOException
-    {
+    public Department getById(int departmentId) throws IOException {
         return fileHandler.getById(departmentId);
     }
 
-    public void deleteById(int id) throws IOException
-    {
+    public void deleteById(int id) throws IOException {
         fileHandler.deleteById(id);
     }
-    public void clearAll() throws IOException
-    {
+
+    public void clearAll() throws IOException {
         fileHandler.clearAll();
     }
 
-    public void addAll(List<Department> depts) throws IOException
-    {
+    public void addAll(List<Department> depts) throws IOException {
         fileHandler.saveAll(depts);
     }
-    
 }

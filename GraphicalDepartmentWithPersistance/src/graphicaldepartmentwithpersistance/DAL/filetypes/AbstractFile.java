@@ -14,25 +14,27 @@ import java.util.List;
  *
  * @author jeppjleemoritzled
  */
-public abstract class AbstractDepartmentPersistanceFile
-{
+public abstract class AbstractFile {
+
     protected final String fileName;
 
-    public AbstractDepartmentPersistanceFile(String fileName)
-    {
+    public AbstractFile(String fileName) {
         this.fileName = fileName;
     }
-    
-    public void clearAll() throws IOException
-    {
+
+    public void clearAll() throws IOException {
         // Ereases the content of the file without deleting it.
         RandomAccessFile raf = new RandomAccessFile(fileName, "rw");
         raf.setLength(0);
     }
-    
+
     public abstract void saveAll(List<Department> depts) throws IOException;
+
     public abstract void addDepartment(Department d) throws IOException;
+
     public abstract void deleteById(int id) throws IOException;
+
     public abstract Department getById(int departmentId) throws IOException;
+
     public abstract List<Department> getAll() throws IOException;
 }

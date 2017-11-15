@@ -15,16 +15,14 @@ import javafx.stage.Stage;
  *
  * @author jeppjleemoritzled
  */
-public class GraphicalDepartmentWithPersistance extends Application
-{
-    
+public class GraphicalDepartmentWithPersistance extends Application {
+
     @Override
-    public void start(Stage stage) throws Exception
-    {
+    public void start(Stage stage) throws Exception {
         Parent root = FXMLLoader.load(getClass().getResource("GUI/View/MainView.fxml"));
-        
+
         Scene scene = new Scene(root);
-        
+
         stage.setScene(scene);
         stage.show();
     }
@@ -32,9 +30,8 @@ public class GraphicalDepartmentWithPersistance extends Application
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
         launch(args);
     }
-    
+
 }

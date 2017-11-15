@@ -6,68 +6,42 @@
 package graphicaldepartmentwithpersistance.BE;
 
 import java.io.Serializable;
-import javafx.beans.property.IntegerProperty;
-import javafx.beans.property.SimpleIntegerProperty;
-import javafx.beans.property.SimpleStringProperty;
-import javafx.beans.property.StringProperty;
 
 /**
  *
  * @author jeppe
  */
-public class Department implements Serializable
-{
+public class Department implements Serializable {
 
-    private final IntegerProperty id; 
-    private final StringProperty name; 
+    private Integer id;
+    private String name;
 
-    public Department()
-    {
-        id = new SimpleIntegerProperty();
-        name = new SimpleStringProperty();
+    public Department() {
     }
 
-    public Department(int id, String name)
-    {
-        this();
-        this.id.set(id);
-        this.name.set(name);
-    }
-    
-    public String getName()
-    {
-        return name.get();
+    public Department(Integer id, String name) {
+        this.id = id;
+        this.name = name;
     }
 
-    public void setName(String value)
-    {
-        name.set(value);
-    }
-
-    public StringProperty nameProperty()
-    {
-        return name;
-    }
-    
-    public int getId()
-    {
-        return id.get();
-    }
-
-    public void setId(int value)
-    {
-        id.set(value);
-    }
-
-    public IntegerProperty idProperty()
-    {
+    public Integer getId() {
         return id;
     }
-    
+
+    public void setId(Integer id) {
+        this.id = id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
 
     @Override
-    public String toString()
-    {
+    public String toString() {
         return String.format("%4d %-50s", id, name);
     }
 }
