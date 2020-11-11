@@ -7,7 +7,7 @@ package graphicaldepartmentwithpersistance.DAL;
 
 import graphicaldepartmentwithpersistance.util.FileTypeFactory;
 import graphicaldepartmentwithpersistance.DAL.filetypes.*;
-import graphicaldepartmentwithpersistance.BE.*;
+import graphicaldepartmentwithpersistance.BE.Department;
 import graphicaldepartmentwithpersistance.util.FileTypeFactory.FileType;
 import static graphicaldepartmentwithpersistance.util.FileTypeFactory.FileType.*;
 import graphicaldepartmentwithpersistance.util.DepartmentException;
